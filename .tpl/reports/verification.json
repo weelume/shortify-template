@@ -3,9 +3,9 @@
   "format": "git-template-verification",
   "formatVersion": "0.2.0",
   "status": "passed",
-  "checkedAt": "2026-11-02T18:02:34.458Z",
-  "sourceCommit": "3b2ecc9641acc79a3622d003b620722fb0cb0ce3",
-  "sourceDigest": "0f90a1a890ae5c69b33affc2b94420c76277c3fae3c34cb29f210821d9337b78",
+  "checkedAt": "2026-11-02T18:17:01.166Z",
+  "sourceCommit": "f4e1815b44bd778ce0f7c25cca44d0363b26a4ae",
+  "sourceDigest": "84fd9c8e2b5b8fdee2ec4e476ad651990455c4056dcbdbfa64caa722e19aec65",
   "environment": {
     "platform": "本地 WSL Linux",
     "arch": "x64",
@@ -25,9 +25,9 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-02T18:01:11.659Z",
-      "finishedAt": "2026-11-02T18:01:11.659Z",
-      "reason": "1.0.1增量代码的类型、lint、测试和构建组合检查通过；时间为该轮检查区间。"
+      "startedAt": "2026-11-02T18:15:22.000Z",
+      "finishedAt": "2026-11-02T18:15:58.334Z",
+      "reason": "1.0.2组合检查通过；时间为源码提交后的本轮检查区间。"
     },
     {
       "id": "lint",
@@ -39,9 +39,9 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-02T18:01:11.659Z",
-      "finishedAt": "2026-11-02T18:01:11.659Z",
-      "reason": "1.0.1增量代码的类型、lint、测试和构建组合检查通过；时间为该轮检查区间。"
+      "startedAt": "2026-11-02T18:15:22.000Z",
+      "finishedAt": "2026-11-02T18:15:58.334Z",
+      "reason": "1.0.2组合检查通过；时间为源码提交后的本轮检查区间。"
     },
     {
       "id": "test",
@@ -53,9 +53,9 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-02T18:01:11.659Z",
-      "finishedAt": "2026-11-02T18:01:11.659Z",
-      "reason": "1.0.1增量代码的类型、lint、测试和构建组合检查通过；时间为该轮检查区间。"
+      "startedAt": "2026-11-02T18:15:22.000Z",
+      "finishedAt": "2026-11-02T18:15:58.334Z",
+      "reason": "1.0.2组合检查通过；时间为源码提交后的本轮检查区间。"
     },
     {
       "id": "build",
@@ -67,9 +67,9 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-02T18:01:11.659Z",
-      "finishedAt": "2026-11-02T18:01:11.659Z",
-      "reason": "1.0.1增量代码的类型、lint、测试和构建组合检查通过；时间为该轮检查区间。"
+      "startedAt": "2026-11-02T18:15:22.000Z",
+      "finishedAt": "2026-11-02T18:15:58.334Z",
+      "reason": "1.0.2组合检查通过；时间为源码提交后的本轮检查区间。"
     }
   ],
   "services": [
@@ -77,7 +77,7 @@
       "id": "web",
       "status": "passed",
       "stopped": true,
-      "checkedAt": "2026-11-02T18:02:34.458Z",
+      "checkedAt": "2026-11-02T18:17:01.166Z",
       "reason": "生产24条双语路径200、2条未知路径404，309素材HEAD200及MP4 MIME通过；本次服务已停止。"
     }
   ],
