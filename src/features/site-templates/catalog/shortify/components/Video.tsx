@@ -3,7 +3,7 @@ import {useEffect,useRef,useState} from 'react'
 import {motion,useReducedMotion} from 'framer-motion'
 import {videos,text,type Locale} from '../content/data'
 
-export function Video({index,locale,auto=true,controls=false}:{index:number;locale:Locale;auto?:boolean;controls?:boolean}){
+export function Video({index,locale,auto=true,controls=false,decorative=false}:{index:number;locale:Locale;auto?:boolean;controls?:boolean;decorative?:boolean}){
  const item=videos[index%videos.length],ref=useRef<HTMLVideoElement>(null),reduced=useReducedMotion(),[error,setError]=useState(false)
  useEffect(()=>{
   const video=ref.current;if(!video||!auto||reduced)return
@@ -12,15 +12,16 @@ export function Video({index,locale,auto=true,controls=false}:{index:number;loca
   const observer=new IntersectionObserver(([entry])=>{visible=entry.isIntersecting;if(visible){video.play().catch((reason:unknown)=>{
    // 可见性变化引起的主动 pause 会取消未完成的 play，不是素材播放失败。
    if(disposed||!visible||(reason instanceof DOMException&&reason.name==='AbortError'))return
-   console.warn('[shortify] video playback unavailable',{id:item.id,reason:reason instanceof Error?reason.name:'unknown'});setError(true)
+   console.warn('[shortify] video playback unavailable',item.id,reason instanceof Error?reason.name+': '+reason.message:String(reason));setError(true)
   })}else video.pause()},{threshold:.08})
   observer.observe(video);return()=>{disposed=true;observer.disconnect();video.pause()}
  },[auto,reduced,item.id])
- return <div className="sf-video-card"><video ref={ref} src={`/templates/shortify/media/${item.id}.mp4`} poster={item.poster} muted={auto} loop={auto} autoPlay={auto&&!reduced} playsInline controls={controls||!!reduced} preload="metadata" aria-label={locale==='zh'?`${item.name} 的短视频演示`:`Short-form video demonstration by ${item.name}`} onError={()=>setError(true)}/>{!controls&&<><div className="sf-video-stats" aria-hidden="true"><span>♡<small>{item.views}</small></span><span>♧<small>46</small></span><span>♧<small>35</small></span></div><div className="sf-video-caption"><strong>{item.name}</strong><span className="sf-follow">{locale==='zh'?'关注':'Follow'}</span><p>{text(locale,item.caption)}</p></div></>}{error&&<p className="sf-media-error" role="status">{locale==='zh'?'视频无法自动播放，请使用播放控件。':'Autoplay unavailable. Use the video controls.'}<button onClick={()=>{if(ref.current){ref.current.controls=true;ref.current.play().then(()=>setError(false)).catch(()=>setError(true))}}}>{locale==='zh'?'播放':'Play'}</button></p>}</div>
+ return <div className="sf-video-card"><video tabIndex={decorative?-1:undefined} ref={ref} src={`/templates/shortify/media/${item.id}.mp4`} poster={item.poster} muted={auto} loop={auto} autoPlay={auto&&!reduced} playsInline controls={controls||!!reduced} preload="metadata" aria-label={locale==='zh'?`${item.name} 的短视频演示`:`Short-form video demonstration by ${item.name}`} onPlaying={()=>setError(false)} onError={()=>setError(true)}/>{!controls&&<><div className="sf-video-stats" aria-hidden="true"><span>♡<small>{item.views}</small></span><span>♧<small>46</small></span><span>♧<small>35</small></span></div><div className="sf-video-caption"><strong>{item.name}</strong><span className="sf-follow">{locale==='zh'?'关注':'Follow'}</span><p>{text(locale,item.caption)}</p></div></>}{error&&<p className="sf-media-error" role="status">{locale==='zh'?'视频无法自动播放，请使用播放控件。':'Autoplay unavailable. Use the video controls.'}<button tabIndex={decorative?-1:undefined} onClick={()=>{if(ref.current){ref.current.controls=true;ref.current.play().then(()=>setError(false)).catch(()=>setError(true))}}}>{locale==='zh'?'播放':'Play'}</button></p>}</div>
 }
 export function VideoMarquee({locale}:{locale:Locale}){
  const [paused,setPaused]=useState(false)
- return <><div className={`sf-video-marquee ${paused?'is-paused':''}`}><div className="sf-marquee-track">{[...videos,...videos].map((item,i)=><div key={`${item.id}-${i}`} aria-hidden={i>=videos.length||undefined} inert={i>=videos.length||undefined}><Video index={i} locale={locale}/></div>)}</div><button className="sf-motion-toggle" onClick={()=>setPaused(!paused)} aria-pressed={paused}>{locale==='zh'?(paused?'继续滚动':'暂停滚动'):(paused?'Resume scrolling':'Pause scrolling')}</button></div><MobileVideos locale={locale}/></>
+ // 重复轨道仅对辅助技术隐藏；inert 会使部分浏览器停止加载其中的视频。
+ return <><div className={`sf-video-marquee ${paused?'is-paused':''}`}><div className="sf-marquee-track">{[...videos,...videos].map((item,i)=><div key={`${item.id}-${i}`} aria-hidden={i>=videos.length||undefined}><Video index={i} locale={locale} decorative={i>=videos.length}/></div>)}</div><button className="sf-motion-toggle" onClick={()=>setPaused(!paused)} aria-pressed={paused}>{locale==='zh'?(paused?'继续滚动':'暂停滚动'):(paused?'Resume scrolling':'Pause scrolling')}</button></div><MobileVideos locale={locale}/></>
 }
 /** 原站小屏使用离散轮播，大屏保留连续滚动；二者不共享运动速度。 */
 function MobileVideos({locale}:{locale:Locale}){
