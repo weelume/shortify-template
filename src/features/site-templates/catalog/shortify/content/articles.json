@@ -1,0 +1,603 @@
+[
+  {
+    "slug": "consistency-is-virality-the-truth-about-growth",
+    "title": {
+      "zh": "持续更新，才是增长的真相",
+      "en": "Consistency is Virality: The Truth About Growth"
+    },
+    "summary": {
+      "zh": "为什么追逐热点并不是长期策略，以及你真正应该做什么。",
+      "en": "Why chasing trends is a losing strategy for business owners, and what you should do instead."
+    },
+    "author": "Rahul Chaudhary",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": {
+          "zh": "引言",
+          "en": "INTRODUCTION"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "创作者经常听到一种说法：离成功只差一条爆款。但如果没有持续积累的内容，偶然的高播放很难转化为长期关系。观众可能因此发现你，却没有更多内容可以继续观看。把注意力从“每条视频有多少播放”转向“每周稳定发布多少内容”，就是内容的复利效应。",
+          "en": "The biggest lie sold to creators is that you are one viral video away from success. In reality, a single viral video without a backlog of content is a wasted opportunity. Viewers might discover you, but they won’t stay if there is nothing else to binge. The solution is to shift your metric from “views per video” to “videos per week.” We call this the Compound Content Effect."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "zh": "原则一：积累信任",
+          "en": "PRINCIPLE 1: THE TRUST BATTERY"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "第 1–4 周：最初，观众尚不了解你。零散的更新难以形成预期，稳定的表达则让人逐渐认识你的专业与节奏。",
+          "en": "WEEKS 1–4 — When you first start, no one trusts you. Posting sporadically signals that you are an amateur. Posting daily signals that you are a professional."
+        }
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "zh": "可靠性：让观众知道何时能看到你的内容。",
+            "en": "Reliability: Your audience needs to know when to expect you."
+          },
+          {
+            "zh": "数据积累：先观察反馈，才知道该优化什么。",
+            "en": "Data Gathering: You cannot optimize what you do not measure."
+          },
+          {
+            "zh": "找到表达：通过持续练习，形成自然、适合自己的声音。",
+            "en": "Voice Finding: It takes 100 videos to find your natural speaking voice."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "text": {
+          "zh": "原则二：给内容系统稳定的反馈",
+          "en": "PRINCIPLE 2: THE ALGORITHMIC FAVOR (WEEKS 5–8)"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "第 5–8 周：平台关注观看与留存。稳定更新为内容分发提供更多可观察的样本，也让你更容易比较主题、开场与节奏的表现。不同平台机制会变化，持续观察比假定某种算法规则更可靠。",
+          "en": "Algorithms do not care about your art; they care about retention and session time. When you post consistently, you feed the machine predictable inventory. The algorithm categorizes you based on consistency. If you post randomly, you are categorized as a Casual User. If you post daily, you are categorized as a Creator."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "zh": "原则三：建立内容的复利曲线",
+          "en": "PRINCIPLE 3: THE COMPOUND CURVE (WEEKS 9+)"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "第 9 周及以后：当一条新内容带来关注，过去积累的作品就成为继续了解你的入口。一次发现，可以延伸为更多观看和更深的信任。这样的内容生态，来自前面的长期准备。",
+          "en": "A new video goes viral, and because you have a library of 60+ previous videos, that new viewer goes back and watches ten more. Suddenly, one view becomes ten views. One lead becomes a superfan. This ecosystem only exists if you have laid the groundwork."
+        }
+      },
+      {
+        "type": "quote",
+        "text": {
+          "zh": "爆款带来的兴奋可能短暂，稳定创作更像长期均衡的饮食。把精力从追逐偶然机会，放回可持续积累的内容资产。",
+          "en": "Viral hits are fleeting sugar rushes. Consistency is a balanced diet that builds a healthy, sustainable business. Stop chasing the lottery ticket and start building the asset."
+        }
+      }
+    ],
+    "image": "/templates/shortify/media/a696e98ec0f1d83d.avif"
+  },
+  {
+    "slug": "the-content-waterfall-one-podcast-ten-reels",
+    "title": {
+      "zh": "内容瀑布：一次播客，多条短片",
+      "en": "The Content Waterfall: One Podcast, Ten Reels"
+    },
+    "summary": {
+      "zh": "你不必每次都拍新素材，已有内容也藏着值得发掘的高光。",
+      "en": "You don’t always need to shoot fresh content. You need to mine your existing assets."
+    },
+    "author": "Macbeth Mo",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": {
+          "zh": "引言",
+          "en": "INTRODUCTION"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "如果每天都从零开始，创作很容易陷入疲劳。高效的创作者会重新利用已有内容，而不是为每个平台重拍一遍。我们把这种持续挖掘素材价值的方法，称为“内容瀑布”。",
+          "en": "Burnout happens when you try to reinvent the wheel every single day. The most efficient creators operate like a recycling plant, not a manufacturing line. You do not need to shoot fresh content for every platform. You need to mine your existing assets using a method we call the Content Waterfall."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "zh": "第一层：作为源头的支柱内容",
+          "en": "TIER 1: THE PILLAR CONTENT (THE SOURCE)"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "每周集中录制一次有深度的长内容，可以是播客、视频或访谈。先关注信息价值，不急着设计每条短视频的开场。保证声音清晰、画面正常，留下可供后续加工的原始素材。",
+          "en": "This is your \"heavy lift.\" It is one long-form piece of content recorded once a week. This could be a podcast episode, a YouTube video, or a deep-dive interview. Focus entirely on value here. Do not worry about the hooks for shorts yet. Just ensure the audio is crisp and the camera is rolling. This is your Raw Material."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "zh": "第二层：拆解与剪辑",
+          "en": "TIER 2: THE SPLINTERING PROCESS (THE EDIT)"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "把 45 分钟的录音转写为文字，寻找那些观点鲜明、建议具体的片段。它们是值得拆解的高光时刻。",
+          "en": "Take that 45-minute recording and transcribe it. Look for the \"Golden Nuggets\"—the moments where you made a controversial point or gave a specific tactic."
+        }
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "zh": "语录卡片：把简洁有力的表达整理为短文字。",
+            "en": "Quote Cards: Turn one-liners into Twitter/X posts."
+          },
+          {
+            "zh": "竖屏短片：围绕一个清晰重点剪辑片段。",
+            "en": "Shorts/Reels: Cut the vertical video segments."
+          },
+          {
+            "zh": "邮件通讯：用摘要串联完整主题。",
+            "en": "Newsletters: Summarize the main topic for email."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "text": {
+          "zh": "第三层：分发与节奏",
+          "en": "TIER 3: DISTRIBUTION & TIMING (THE SPREAD)"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "把拆解后的内容安排进发布日历。一小时的录制，可以成为多个渠道共同使用的内容起点。",
+          "en": "Now, schedule these out. That single hour of recording has now provided you with:"
+        }
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "zh": "1 条完整视频。",
+            "en": "1 YouTube Video"
+          },
+          {
+            "zh": "5 条短视频或 Reels。",
+            "en": "5 TikToks/Reels"
+          },
+          {
+            "zh": "1 篇 LinkedIn 文章。",
+            "en": "1 LinkedIn Article"
+          },
+          {
+            "zh": "3 条短文字。无需再次打开摄像机，也能丰富更新安排。",
+            "en": "3 Tweets You have filled your calendar without turning your camera on a second time."
+          }
+        ]
+      },
+      {
+        "type": "quote",
+        "text": {
+          "zh": "更聪明地创作，让一次投入产生多种表达。把素材拆解交给清楚的流程，你就能把更多注意力放在观点和讲述上。",
+          "en": "Work smarter, not harder. If you aren't repurposing your content, you are throwing away 80% of your effort. Let Shortify handle the splintering so you can focus on the speaking."
+        }
+      }
+    ],
+    "image": "/templates/shortify/media/a696e98ec0f1d83d.avif"
+  },
+  {
+    "slug": "the-0-setup-why-your-iphone-is-enough",
+    "title": {
+      "zh": "零预算拍摄：手机就可以开始",
+      "en": "The $0 Setup: Why Your iPhone is More than Enough"
+    },
+    "summary": {
+      "zh": "好内容不一定需要电影机，更需要合适的光线与有意识的构图。",
+      "en": "You don’t need a cinema camera to go viral. You need better lighting and intentional composition."
+    },
+    "author": "Alphonoso Stevens",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": {
+          "zh": "引言",
+          "en": "INTRODUCTION"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "“等设备齐全再开始”常常是一种拖延。你可能觉得还缺相机、麦克风和摄影棚，但贴近生活的内容往往就来自手机。真实自然的表达，本身也是一种优势。",
+          "en": "\"Gear Acquisition Syndrome\" (GAS) is a form of procrastination. You convince yourself you cannot start until you have the Sony camera, the Shure microphone, and the studio space. This is false. The most relatable content on the internet right now is shot on smartphones. We call this the Authenticity Advantage."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "zh": "要素一：光线决定画面基础",
+          "en": "COMPONENT 1: LIGHTING IS KING (THE VISUALS)"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "昂贵相机在差光线下也很难发挥。手机遇到好光线，同样能拍出有质感的画面，并不一定需要昂贵的柔光灯。",
+          "en": "A $5,000 camera looks terrible in bad light. An iPhone looks cinematic in good light. You do not need expensive softboxes."
+        }
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "zh": "窗边自然光：面向窗户，避免窗户直接位于身后。",
+            "en": "Window Light: Face a window directly. Do not have the window behind you."
+          },
+          {
+            "zh": "锁定曝光：点击屏幕调整曝光，尝试略微压低亮度，避免高光过曝。",
+            "en": "Exposure Lock: Tap your phone screen and drag the sun icon down slightly ( -0.3 EV ) to create a moodier, professional look."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "text": {
+          "zh": "要素二：先保证声音清楚",
+          "en": "COMPONENT 2: AUDIO IS QUEEN (THE RETENTION)"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "观众可能接受普通画质，却很难忍受听不清的声音。关掉空调、合上窗户，减少房间回声。先录一段语音备忘测试环境，再开始正式拍摄。",
+          "en": "Viewers will forgive grainy video, but they will swipe away instantly if the audio is bad. You don't need a boom mic. You just need to control your environment. Turn off the AC. Close the windows. If you are echoing, throw a blanket on the floor. Use the Voice Memos app to test before you record video."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "zh": "要素三：有意识地构图",
+          "en": "COMPONENT 3: INTENTIONAL COMPOSITION (THE FRAMING)"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "打开相机网格，把眼睛放在上方水平线附近。检查背景与边缘是否有干扰，并在每次拍摄前擦拭镜头。很多画面模糊，来自镜头上的指纹。",
+          "en": "Turn on the Grid Lines in your camera settings. Place your eyes on the top horizontal line. This is the Rule of Thirds. Ensure your lens is clean. 90% of \"bad quality\" phone footage is just a greasy fingerprint on the lens. Wipe it on your shirt before every single take."
+        }
+      },
+      {
+        "type": "quote",
+        "text": {
+          "zh": "设备不能替代故事。先用口袋里的工具开始，等真实需求和投入回报明确之后，再考虑升级。",
+          "en": "The gear doesn't make the creator. The story does. Start with what you have in your pocket today, and upgrade only when your revenue justifies the expense."
+        }
+      }
+    ],
+    "image": "/templates/shortify/media/a696e98ec0f1d83d.avif"
+  },
+  {
+    "slug": "silence-is-golden-why-dynamic-captions-are-non-negotiable",
+    "title": {
+      "zh": "静音也能看懂：动态字幕的价值",
+      "en": "Silence is Golden: Why Dynamic Captions Are Non-Negotiable"
+    },
+    "summary": {
+      "zh": "许多观看发生在静音场景，让文字也成为完整的叙事。",
+      "en": "85% of social media video is watched on mute. If you aren’t captioning, you are invisible."
+    },
+    "author": "Mark Zuck",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": {
+          "zh": "引言",
+          "en": "INTRODUCTION"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "人们可能在通勤、会议间隙或不方便播放声音的环境中看视频。如果只有声音而没有字幕，信息就可能被错过。把视频同时当作一段可阅读的视觉体验。",
+          "en": "Here is a terrifying statistic: 85% of social media video is watched on mute. People are watching in bed next to a sleeping partner, in a boring meeting, or on the subway. If you are talking without captions, you are effectively a mime. To retain attention, you must master the Visual Reading Experience."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "zh": "第一层：让文字与声音同步",
+          "en": "LAYER 1: THE KARAOKE EFFECT (SYNC)"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "动态字幕可以按词语或短句与表达同步出现，让阅读节奏贴合声音。用颜色突出真正重要的关键词，避免所有文字都同时争夺注意力。",
+          "en": "Static subtitles at the bottom of the screen are dead. You need dynamic captions that pop up word-by-word or phrase-by-phrase in time with your speech. This keeps the viewer's eye moving. If the eye stops moving, the thumb starts scrolling. Use colors to highlight Keywords that emphasize your point."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "zh": "第二层：留出界面安全区域",
+          "en": "LAYER 2: PLACEMENT & SAFE ZONES (UI)"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "不要让平台的按钮、评论和说明挡住字幕。设计前先了解目标平台的界面遮挡范围。",
+          "en": "Amateurs cover their captions with interface elements. You must respect the \"Safe Zones\" of TikTok and Instagram."
+        }
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "zh": "底部留白：避开视频说明与评论入口。",
+            "en": "Bottom Padding: Keep text away from the caption/comment section."
+          },
+          {
+            "zh": "侧边留白：避开右侧点赞和分享按钮。",
+            "en": "Side Padding: Avoid the like/share buttons on the right."
+          },
+          {
+            "zh": "保持中心：把重要信息留在容易看到的位置。",
+            "en": "Center Focus: Keep the reading experience in the middle 50% of the screen."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "text": {
+          "zh": "第三层：用画面补充语境",
+          "en": "LAYER 3: EMOJIS & B-ROLL (CONTEXT)"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "字幕不仅是文字，也可以与少量表情和辅助画面共同传递语境。提到金钱或成长时，可以使用与内容相关的视觉提示，但避免堆叠装饰。",
+          "en": "Captions aren't just text; they are visual context. Use emojis sparingly to illustrate nouns. If you mention \"Money,\" show a 💸. If you mention \"Growth,\" show a 📈. It triggers a dual-coding process in the brain, helping the viewer process information faster and retaining them longer."
+        }
+      },
+      {
+        "type": "quote",
+        "text": {
+          "zh": "视频既可以用耳朵听，也应当能用眼睛读。把音量调到零，仍然能够理解核心信息，内容就能适应更多观看环境。",
+          "en": "Your video isn't just for listening; it's for reading. If your video doesn't make sense with the volume set to zero, you are ignoring the vast majority of your potential audience."
+        }
+      }
+    ],
+    "image": "/templates/shortify/media/a696e98ec0f1d83d.avif"
+  },
+  {
+    "slug": "anatomy-of-a-viral-hook-the-first-3-seconds",
+    "title": {
+      "zh": "好开场的结构：最初三秒",
+      "en": "Anatomy of a Viral Hook: The First 3 Seconds"
+    },
+    "summary": {
+      "zh": "观众很快就会决定是否继续观看，让开场清楚表达内容的价值。",
+      "en": "Viewers decide to scroll past you in less time than it takes to blink. Here is how to stop the scroll."
+    },
+    "author": "Rahul Chaudhary",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": {
+          "zh": "引言",
+          "en": "INTRODUCTION"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "注意力竞争发生得很快。开头几秒需要让观众知道：这条内容与我有什么关系？用清楚的视觉和语言打破预期，让人愿意继续看。",
+          "en": "The internet is a war for attention, and the battlefield is the first three seconds. Viewers decide to scroll past you in less time than it takes to blink. If you do not grab them immediately, the rest of your video does not matter. You need to master the art of the Pattern Interrupt."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "zh": "方法一：从有动作的画面开始",
+          "en": "TACTIC 1: THE VISUAL INTERRUPT (0:00–0:01)"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "不必总是从坐稳、吸气开始。一个自然的动作，可以更快把观众带进场景。",
+          "en": "Do not start your video sitting still and taking a breath. Start in motion."
+        }
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "zh": "移动：走进画面，或展示与主题相关的物品。",
+            "en": "Movement: Walk into the frame or bring an object close to the lens."
+          },
+          {
+            "zh": "文字：立即给出简洁、清楚的标题。",
+            "en": "Text: Have a bold headline flash on the screen immediately."
+          },
+          {
+            "zh": "行动：从正在发生的事情开始，比如倒咖啡、打字或行走。",
+            "en": "Action: Be in the middle of doing something (pouring coffee, typing, walking)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "text": {
+          "zh": "方法二：第一句话直接给出价值",
+          "en": "TACTIC 2: THE VERBAL HOOK (0:01–0:03)"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "避免过长的问候和铺垫。直接说明你解决什么问题，或分享了怎样的发现。比如“我试过这个方法，发现……”让观众对接下来的答案产生好奇。",
+          "en": "Never start with \"Hey guys, welcome back.\" That is a retention killer. Start immediately with the value or the controversy. Use strong openers: \"Stop doing this...\" or \"Here is the secret to...\" or \"I tried X so you don't have to.\" You must open a Curiosity Loop that can only be closed by watching the rest of the video."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "zh": "方法三：说清看完能得到什么",
+          "en": "TACTIC 3: THE PAYOFF PROMISE (0:03–0:05)"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "获得注意之后，说明观众继续观看会有什么收获。承诺应当具体、可信，并且在后面的内容里兑现。",
+          "en": "Once you have their attention, tell them exactly what they will get if they stay. \"By the end of this video, you will know exactly how to X.\" This creates a contract with the viewer. They give you their time; you give them the solution."
+        }
+      },
+      {
+        "type": "quote",
+        "text": {
+          "zh": "把足够的精力用在第一句话上。好的开场与有价值的正文相互配合，才能建立持续的观看体验。",
+          "en": "You don't have a content problem; you have a hook problem. Spend 50% of your scripting time on the first sentence. If the hook fails, the video fails."
+        }
+      }
+    ],
+    "image": "/templates/shortify/media/a696e98ec0f1d83d.avif"
+  },
+  {
+    "slug": "the-batch-day-protocol-how-to-record-30-videos-in-4-hours",
+    "title": {
+      "zh": "批量创作日：四小时集中拍摄法",
+      "en": "The \"Batch-Day\" Protocol: How to Record 30 Videos in 4 Hours"
+    },
+    "summary": {
+      "zh": "给内容创作一段完整时间，让它不再不断打断你的日常工作。",
+      "en": "Stop letting content creation bleed into your daily workflow. Treat it like a manufacturing process with this strict 4-hour system."
+    },
+    "author": "John Doe",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": {
+          "zh": "引言",
+          "en": "Introduction"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "不断在经营工作和创作模式之间切换，会消耗注意力。与其每天分散拍一点，不如预留一段专注、完整的时间，把拍摄集中完成。",
+          "en": "The biggest productivity killer for entrepreneurs is context switching. Shifting from \"CEO mode\" to \"Creative mode\" takes a mental toll that often results in burnout. The solution is not to work harder, but to condense your entire month of filming into a single, non-negotiable time block. We call this the Batch-Day Protocol."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "zh": "阶段一：脚本冲刺（第一小时）",
+          "en": "Phase 1: The Scripting Sprint (Hour 1)"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "打开摄像机之前，先准备好计划。用文档或简单表格整理要点，不必逐字逐句写稿，让表达保留自然感。",
+          "en": "Never turn on the camera without a plan. The first hour is strictly for finalizing scripts. We recommend using a Notion database or a simple spreadsheet. Do not write word-for-word; instead, use bullet points to keep your delivery natural."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "每条脚本采用三个部分：开场说明价值，正文提供几个具体要点，结尾给出清楚的下一步。",
+          "en": "Every script requires a strict three-part structure. Start with The Hook to immediately state the controversy or value proposition. Follow with The Meat, three concise points of actionable value. Finish with The CTA, a clear instruction telling the viewer exactly what to do next."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "zh": "阶段二：布景与技术检查（第二小时）",
+          "en": "Phase 2: The Setup & \\\"Tech Check\\\" (Hour 2)"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "先检查环境，避免录完才发现麦克风没有连接。",
+          "en": "Nothing is worse than recording for an hour only to realize your mic wasn't plugged in. Spend this hour setting the stage."
+        }
+      },
+      {
+        "type": "list",
+        "items": [
+          {
+            "zh": "光线：把主光放在合适的侧前方，观察脸部阴影。",
+            "en": "Lighting: Position your key light at a 45-degree angle."
+          },
+          {
+            "zh": "声音：先试录，确保没有失真与明显噪声。",
+            "en": "Audio: Test your levels. They should peak around -6db to -12db."
+          },
+          {
+            "zh": "服装：提前准备几件上衣，便于不同内容形成视觉变化。",
+            "en": "Wardrobe: Lay out 4–5 different shirts. This is crucial."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "每完成几条内容，可以更换上衣，让连续拍摄的素材保持适度变化。视觉变化应服务主题，不必伪造拍摄时间。",
+          "en": "The secret is the Costume Change and appearing consistent over a month. Swap your top every 5 videos to create the illusion of time passing."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "zh": "阶段三：集中表达（第三至四小时）",
+          "en": "Phase 3: The Performance (Hours 3–4)"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "zh": "把手机调整到不会被打扰的状态，每五条内容作为一组。组与组之间休息几分钟，喝水并检查素材。最终产出取决于内容复杂度和准备程度，标题中的数量是方法示意，并非保证。",
+          "en": "Now, you execute. Put your phone on Airplane Mode to avoid interruptions. Record in clusters of five videos. Between each cluster, take a 5-minute break, drink water, and change your shirt. By the end of this block, you will have raw footage for an entire month."
+        }
+      },
+      {
+        "type": "quote",
+        "text": {
+          "zh": "完成拍摄后，按内容主题整理原始文件，再进入剪辑、字幕与品牌视觉环节。明确的流程，能减少来回沟通与重复劳动。",
+          "en": "Once the filming is done, your job is over. You simply upload the raw files to your Shortify portal, and we handle the editing, captions, and branding. See how our process works here."
+        }
+      }
+    ],
+    "image": "/templates/shortify/media/a696e98ec0f1d83d.avif"
+  }
+]

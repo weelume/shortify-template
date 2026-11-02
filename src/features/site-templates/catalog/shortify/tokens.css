@@ -1,0 +1,92 @@
+@import url('/templates/shortify/fonts/misans/MiSans-Regular.css');
+@import url('/templates/shortify/fonts/misans/MiSans-Bold.css');
+@font-face {
+  font-family: ShortifyPoppins;
+  src: url('/templates/shortify/fonts/poppins-latin-400.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: ShortifyPoppins;
+  src: url('/templates/shortify/fonts/poppins-latin-600.woff2') format('woff2');
+  font-weight: 600;
+  font-display: swap;
+}
+@font-face {
+  font-family: ShortifyPoppins;
+  src: url('/templates/shortify/fonts/poppins-latin-700.woff2') format('woff2');
+  font-weight: 700;
+  font-display: swap;
+}
+.sf-site {
+  --sf-bg: #090909;
+  --sf-text: #fafafa;
+  --sf-muted: #a6a6af;
+  --sf-faint: #777780;
+  --sf-border: rgba(255,255,255,.085);
+  --sf-glass: linear-gradient(145deg,rgba(255,255,255,.065),rgba(255,255,255,.018));
+  --sf-glass-shadow: inset 0 1px 0 rgba(255,255,255,.04),0 10px 35px rgba(0,0,0,.2);
+  --sf-gradient: linear-gradient(115deg,#d565ff -4%,#746bff 24%,#009bff 62%,#b4dcba 102%);
+  --sf-accent: #9e91ff;
+  --sf-focus: #9ad9ff;
+  --sf-radius: 16px;
+  --sf-max: 1200px;
+  --sf-gutter: clamp(20px,4.2vw,64px);
+  --sf-section: clamp(76px,10vw,144px);
+  --sf-h1: clamp(28px,4.2vw,44px);
+  --sf-h2: clamp(24px,3.2vw,36px);
+  --sf-h3: clamp(20px,2.4vw,26px);
+  --sf-body: clamp(16px,1.25vw,17px);
+  --sf-scroll-track: #101013;
+  --sf-scroll-thumb: #555360;
+  --sf-scroll-hover: #9186ac;
+  --sf-scroll-width: 9px;
+  --sf-nav-height: 64px;
+  --sf-font: ShortifyPoppins,ShortifyMiSans,sans-serif;
+  background: var(--sf-bg);
+  color: var(--sf-text);
+  font-family: var(--sf-font);
+  font-size: var(--sf-body);
+  line-height: 1.8;
+  min-height: 100vh;
+  color-scheme: dark;
+}
+.sf-site[lang=zh-CN] {
+  --sf-font: ShortifyMiSans,ShortifyPoppins,sans-serif;
+}
+html[data-shortify] {
+  scroll-behavior: smooth;
+  scrollbar-color: #555360 #101013;
+  scrollbar-width: thin;
+  background: #090909;
+}
+html[data-shortify]::-webkit-scrollbar,.sf-site ::-webkit-scrollbar {
+  width: var(--sf-scroll-width,9px);
+  height: 8px;
+}
+html[data-shortify]::-webkit-scrollbar-track,.sf-site ::-webkit-scrollbar-track {
+  background: var(--sf-scroll-track,#101013);
+}
+html[data-shortify]::-webkit-scrollbar-thumb,.sf-site ::-webkit-scrollbar-thumb {
+  background: var(--sf-scroll-thumb,#555360);
+  border: 2px solid var(--sf-scroll-track,#101013);
+  border-radius: 20px;
+}
+html[data-shortify]::-webkit-scrollbar-thumb:hover,.sf-site ::-webkit-scrollbar-thumb:hover {
+  background: var(--sf-scroll-hover,#9186ac);
+}
+.sf-site * {
+  scrollbar-color: var(--sf-scroll-thumb) var(--sf-scroll-track);
+  scrollbar-width: thin;
+}
+@media(max-width:700px) {
+  .sf-site {
+    --sf-nav-height: 54px;
+    --sf-scroll-width: 6px;
+  }
+}
+@media(prefers-reduced-motion:reduce) {
+  html[data-shortify] {
+    scroll-behavior: auto;
+  }
+}

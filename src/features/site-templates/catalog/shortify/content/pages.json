@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "",
+    "title": "首页",
+    "localizedTitles": {
+      "en": "Home"
+    }
+  },
+  {
+    "slug": "portfolio",
+    "title": "作品",
+    "localizedTitles": {
+      "en": "Portfolio"
+    }
+  },
+  {
+    "slug": "about",
+    "title": "关于",
+    "localizedTitles": {
+      "en": "About"
+    }
+  },
+  {
+    "slug": "blog",
+    "title": "创作手记",
+    "localizedTitles": {
+      "en": "Blog"
+    }
+  },
+  {
+    "slug": "contact-us",
+    "title": "联系",
+    "localizedTitles": {
+      "en": "Contact"
+    }
+  },
+  {
+    "slug": "privacy-policy",
+    "title": "隐私政策",
+    "localizedTitles": {
+      "en": "Privacy"
+    }
+  },
+  {
+    "slug": "blog/consistency-is-virality-the-truth-about-growth",
+    "title": "持续更新，才是增长的真相",
+    "localizedTitles": {
+      "en": "Consistency is Virality: The Truth About Growth"
+    }
+  },
+  {
+    "slug": "blog/the-content-waterfall-one-podcast-ten-reels",
+    "title": "内容瀑布：一次播客，多条短片",
+    "localizedTitles": {
+      "en": "The Content Waterfall: One Podcast, Ten Reels"
+    }
+  },
+  {
+    "slug": "blog/the-0-setup-why-your-iphone-is-enough",
+    "title": "零预算拍摄：手机就可以开始",
+    "localizedTitles": {
+      "en": "The $0 Setup: Why Your iPhone is More than Enough"
+    }
+  },
+  {
+    "slug": "blog/silence-is-golden-why-dynamic-captions-are-non-negotiable",
+    "title": "静音也能看懂：动态字幕的价值",
+    "localizedTitles": {
+      "en": "Silence is Golden: Why Dynamic Captions Are Non-Negotiable"
+    }
+  },
+  {
+    "slug": "blog/anatomy-of-a-viral-hook-the-first-3-seconds",
+    "title": "好开场的结构：最初三秒",
+    "localizedTitles": {
+      "en": "Anatomy of a Viral Hook: The First 3 Seconds"
+    }
+  },
+  {
+    "slug": "blog/the-batch-day-protocol-how-to-record-30-videos-in-4-hours",
+    "title": "批量创作日：四小时集中拍摄法",
+    "localizedTitles": {
+      "en": "The \"Batch-Day\" Protocol: How to Record 30 Videos in 4 Hours"
+    }
+  }
+]

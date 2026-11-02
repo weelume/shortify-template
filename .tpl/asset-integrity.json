@@ -1,0 +1,1547 @@
+[
+  {
+    "path": "fonts/Poppins-OFL.txt",
+    "bytes": 4392,
+    "sha256": "b1474d1695ec46e4317fd480aa118075bb6e8b7ca9704667b9d22371b94ca531"
+  },
+  {
+    "path": "fonts/misans/LICENSE-SOURCE.md",
+    "bytes": 469,
+    "sha256": "811a860fd8a99bd3bfef6f3084a92af64fc19715ff9e216ba2e8a13b174f700e"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.100.woff2",
+    "bytes": 28496,
+    "sha256": "4808ae125365a67b49da38ccbda6bbdc98af65ece4422a3912267ed027ca106e"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.101.woff2",
+    "bytes": 26156,
+    "sha256": "82a711e8c5cd5b4e68e373301b41ec06b35326de03ebafbcc40913579a2a2f24"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.102.woff2",
+    "bytes": 26796,
+    "sha256": "2275e3d1693b4a6500f32e604bed126ecb4b4ca34be6b5210f4117bf66b7295b"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.103.woff2",
+    "bytes": 28028,
+    "sha256": "19f23f06b08ea079098429918786b00b12c3fef7ff08247f3e1a7c00de17e906"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.104.woff2",
+    "bytes": 26908,
+    "sha256": "d91a67f951735a8b8a3f67a4266e6767c14cd5c3eb4980cfc9a1c1d4ab4a93d0"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.105.woff2",
+    "bytes": 27556,
+    "sha256": "6205bb9dbd71fecdc16fd64a18a950872d8a10d6cef95fc559d3631da9bde2fc"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.106.woff2",
+    "bytes": 27820,
+    "sha256": "18a5d0c0a19c630e4ed8f42b96fb8635ec1ec0965e02b94aef772defa02b5b4c"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.107.woff2",
+    "bytes": 26916,
+    "sha256": "25a243f93059e8b2b2dc593f0519f6c7a76dec52606c199bb43217e0d8954bf4"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.108.woff2",
+    "bytes": 28176,
+    "sha256": "c67d2d298accfdf3f9f1e6cd8a5808fcf512940562af714d8bf420d8ee4ee016"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.109.woff2",
+    "bytes": 26468,
+    "sha256": "71efddfba181e01b39da757dd1952cb48f7bbcfcb65db0262070bc466a320650"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.110.woff2",
+    "bytes": 26812,
+    "sha256": "b359325406a71a0abdd3d2ccc45282237160647c537c2eb4959884d20f28e88f"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.111.woff2",
+    "bytes": 27624,
+    "sha256": "c375d70bed8af4262451278d2ee5bb78123751cc647bce7d6c3aab22c6c35c4a"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.112.woff2",
+    "bytes": 25620,
+    "sha256": "58f8c7a2578adba337ec110ddd16dcd9afc318f313a928c0194d8821bf051aca"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.113.woff2",
+    "bytes": 25852,
+    "sha256": "65a0cef9e17cfa78e0211d7e0a8684387af69a32b687b5795363b42d3e42f015"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.114.woff2",
+    "bytes": 24976,
+    "sha256": "3264c0b71f6e54d63780392e80a7b063eb216fe32de1bef00da4110b54124282"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.115.woff2",
+    "bytes": 24476,
+    "sha256": "1d60b6ca0d3d1c3db88026115e769a0bbcbbfba7775e12702b3c23ad6b862c1d"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.116.woff2",
+    "bytes": 22636,
+    "sha256": "5c67fbddb46594787ec03e8c01bb2fa3670f494b29bab361b54efe5fb555231f"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.117.woff2",
+    "bytes": 22848,
+    "sha256": "12c001b3c2a7b1a4b88a2e945b89c77ba0b1d498b1c1084d2c81f2e89683d1af"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.118.woff2",
+    "bytes": 20096,
+    "sha256": "20ec1551b7a5ae92efabf13b1251ec42e416e39d76efdda90e5b002e8fefcc2f"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.119.woff2",
+    "bytes": 18420,
+    "sha256": "2ea69db8c9290b93ccc6f953113201523a6f573fbe51f0d360c37178b5e9ce5b"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.21.woff2",
+    "bytes": 4920,
+    "sha256": "751a24002aaf682c5a690bd4bece1b9f43ad03b4ca915d78b027fde5392d2e69"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.22.woff2",
+    "bytes": 30456,
+    "sha256": "2b1b3855ca3ada4d66e43a3d70cc1a0455e44068cc232736e35ede2560ce38e1"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.23.woff2",
+    "bytes": 27784,
+    "sha256": "ea83f9ce411b37f3e4f1e7acc074d76c79340d9145e966c028863693f0e92640"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.24.woff2",
+    "bytes": 29180,
+    "sha256": "8115572a4bd01cd1c9da33825b6f20a8a113b5abea3de96978d6abc87accb935"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.25.woff2",
+    "bytes": 28440,
+    "sha256": "e3f0a4fa145028d7ccf76d6b463495083f272620d2fee54b75e5d63717a47176"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.26.woff2",
+    "bytes": 24748,
+    "sha256": "4b9fe9bee19bafcd2f0b9a20ab706ed7ac7d4e93bbdc76c5d3a2b74e9a2245b1"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.27.woff2",
+    "bytes": 21964,
+    "sha256": "b6ad04108302bb794871f5bb96924730f00bc5ca50095627b2f1c4b47917e9de"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.28.woff2",
+    "bytes": 22764,
+    "sha256": "a4888e3c2bceb28490c6b6540b5b6ab80acbfb4ac70b3d642f10e64871f02a84"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.29.woff2",
+    "bytes": 24928,
+    "sha256": "0377cf3473f86512ad4debbd63920fbd2c54efb0fea2922e9d857017d432296a"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.30.woff2",
+    "bytes": 27856,
+    "sha256": "3f3b6682eeb1abc88b1740dedb31030eafa8e516bbb495ce81848cf35dcbe525"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.31.woff2",
+    "bytes": 23344,
+    "sha256": "13a09bf0d44d0c7db6e7e599d9c8e9f526d7154b6f64a60cd454e3612adf68b6"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.32.woff2",
+    "bytes": 22476,
+    "sha256": "66e9caf1f9242a9a0b2e245d749ec57adf9f558edb74f88d0126165fe3149540"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.33.woff2",
+    "bytes": 22676,
+    "sha256": "80980a9fdb74098ed203b1433f3bced1f10cca90389e8d7a07984ce21b8aedae"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.34.woff2",
+    "bytes": 22484,
+    "sha256": "05092fcdd237982645c9f5bfa0c473cd8f9d33b31a1ec0a84b68a83d6cec72a9"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.35.woff2",
+    "bytes": 21752,
+    "sha256": "f5a7da9c7a7d90b64db4d5690b4639007ea707ca1a6c47ebe8a87dd122cb0227"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.36.woff2",
+    "bytes": 21248,
+    "sha256": "35e27a0544f9108d02aa3d2deeec987d996e7ab949c9df24faf57c55323318fe"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.37.woff2",
+    "bytes": 23988,
+    "sha256": "6441b5498d45f5442b373474b45fb2f65007bea3c564ff91b427e6ba8d62579c"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.38.woff2",
+    "bytes": 25596,
+    "sha256": "0a464edbeea0d9aa57d53111b30b70504ab88f412449b64e41ee9cc1c4ee864d"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.39.woff2",
+    "bytes": 24252,
+    "sha256": "2c25209c28c3a9ec7dc66580e6c59db5527155e2e4c5915f6f780aa1dc39cd49"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.40.woff2",
+    "bytes": 21584,
+    "sha256": "b4ac654caf55e8f20b8e2ed90f9160e20972800789ee1e15999649acad4c8ed2"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.41.woff2",
+    "bytes": 16860,
+    "sha256": "d167129eed54e3740be70a6f2a2be6fa458abe106bd953bea6dedf872fd46bde"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.42.woff2",
+    "bytes": 21624,
+    "sha256": "e01dab9353b136500fc2eb48e462dcca9ebee11339419b2d47ce92b0900168ac"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.43.woff2",
+    "bytes": 22000,
+    "sha256": "eb716c0737e3209e43cf11d33d76aec8099dc7e5247b21e65021df2f0ec1068a"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.44.woff2",
+    "bytes": 24192,
+    "sha256": "8ecae15655072084fcd80b25c304c468a3c66fa4c53d978f8fb3ce6d04039d1b"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.45.woff2",
+    "bytes": 30920,
+    "sha256": "4827a7db553c6e4dc54a4925efb70a2c6e3c6953b501b8d93a8ff39196dd9bc0"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.46.woff2",
+    "bytes": 27652,
+    "sha256": "2fdd7a03a4e81cd7e5933cde433fcd75c9ffef861b8292efc39687f4487cbd2c"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.47.woff2",
+    "bytes": 27116,
+    "sha256": "bfe88dab6b9b015be1de6295601d3119330b74e2460c76364b78e8d24441366e"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.48.woff2",
+    "bytes": 23148,
+    "sha256": "1c1b62bdbd69d6d1b9e212c0bb00c01f25113467a3f966b84dcfe9765822bced"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.49.woff2",
+    "bytes": 24556,
+    "sha256": "41d72645e4f80b60619cb8427751d855d6ccea9180e2e3d55a4675c6de5f9d9a"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.5.woff2",
+    "bytes": 3896,
+    "sha256": "d2907caa6902851414506c26dca37b6e72c60f64d168a73ae3a1cfd3bea3166f"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.50.woff2",
+    "bytes": 22012,
+    "sha256": "87abf18dae27b03130caabea6ff131bf801ece0a00a0b36df6d1de39462d77bb"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.51.woff2",
+    "bytes": 19400,
+    "sha256": "0a130dd14344a35d74366e38de3cf07a92d5b4ca7582c708920409101076555f"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.52.woff2",
+    "bytes": 24156,
+    "sha256": "d56ebfbe3eec5ecc07bbeae8b235003a81111cb970c0ebc598b47fd98f860fe4"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.53.woff2",
+    "bytes": 20120,
+    "sha256": "8f0b4e907270443b4864f363902437f5f3c4d93cf7722f58f1f43aeafac5b321"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.54.woff2",
+    "bytes": 24172,
+    "sha256": "a098c89e5fb789e69d75aea61b114e333142f586d56340936c1f6958b8fd051b"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.55.woff2",
+    "bytes": 22872,
+    "sha256": "e754bfb17661933bad312c5f059d2a60cd216f68d6f81827db658fb242f007aa"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.56.woff2",
+    "bytes": 25984,
+    "sha256": "ffa50e3be788140c45ffe847b9938fe29cd334e14ff00a15b7a02042d1568d46"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.57.woff2",
+    "bytes": 25564,
+    "sha256": "8a0a8eff10648a807ec01c4f23110b1630c08f0c2769f02f01751ed355a2f58c"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.58.woff2",
+    "bytes": 27764,
+    "sha256": "4c14c86e9bb120a0ef3a2d8bbf42fd6008d8f268bb4ca68f40153bc652fba386"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.59.woff2",
+    "bytes": 23608,
+    "sha256": "73dd87b83bfda9023933a9f8658671208b1d8dbf6077ea1cd16e2081d1364267"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.6.woff2",
+    "bytes": 3388,
+    "sha256": "edfaf5a8f5a70f15bf29c88110b1ca8b7d6dfe736f280ced5edfabc2ade99500"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.60.woff2",
+    "bytes": 20312,
+    "sha256": "f774a200335d0d84cb7e08f997e7eb67a1e7c134efec513bf387c6af831a371b"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.61.woff2",
+    "bytes": 21320,
+    "sha256": "bfc82972785302ba052416cb85736260e4769b8e9349dab702cffcf51ab76e03"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.62.woff2",
+    "bytes": 26528,
+    "sha256": "0c75fdaed9ddc8eb48abd04e2f9c7545e520e6d391ddd30a9f79ee4656e63b54"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.63.woff2",
+    "bytes": 21852,
+    "sha256": "c35a25c4e621ec55e626bdcbda40c5165763c685f1fc6d5616477d60ed47e86b"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.64.woff2",
+    "bytes": 17996,
+    "sha256": "054f57c80a84bbe45af0755c8e04cb57c73bb29815e880449534d3021e03de26"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.65.woff2",
+    "bytes": 19180,
+    "sha256": "92f1689661357f1269d0b543013a214c87b2ff091f0835659acbf91aed3f625d"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.66.woff2",
+    "bytes": 23912,
+    "sha256": "e967a8abcce44c33fc3a6d4eeb7da418de258a9c7596fccd7205ecb42d3a65ce"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.67.woff2",
+    "bytes": 26156,
+    "sha256": "786efb9ce2c5be54ad3971de0ac3e12486763208cfc8cd7611e85c01d131d640"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.68.woff2",
+    "bytes": 21020,
+    "sha256": "1ca520c651b8c6c7426ca785abebf4aae441ab6defd35fbfcbfb71fc965629ec"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.69.woff2",
+    "bytes": 27172,
+    "sha256": "09bc2fa4904339cc7d7064fdc1c5241c45cf3e52f01afc027822a2c1123dd555"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.70.woff2",
+    "bytes": 19568,
+    "sha256": "aa343d344af9eeae41a567124a44ba4e3de360273a851dffc12bdd5266810917"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.71.woff2",
+    "bytes": 21584,
+    "sha256": "1f7dcc86821971ad2f2aae37f1b12d9d316429c5d442f1ad72b8eb425c49f56e"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.72.woff2",
+    "bytes": 21324,
+    "sha256": "102b12f1c02c223e137b9e64c0df5a9200b691e3463e2545308250c6f899fcf0"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.73.woff2",
+    "bytes": 17732,
+    "sha256": "812e6aac2cd87ab82e9ce58f97c48ff6b8f5fec651e5b37e86b92bc87fc9a76a"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.74.woff2",
+    "bytes": 25804,
+    "sha256": "56c586bd8d895f407ef2789d85449f0e5678f483c27d88cf495a7636e10193cd"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.75.woff2",
+    "bytes": 21788,
+    "sha256": "231e357597a654d5acef643258adf8a10aec441b12a98229aa0e72bf642e80b9"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.76.woff2",
+    "bytes": 22340,
+    "sha256": "017386ef7dcde4efa6eed8c3935e8cc92e7a93c1c3a7d6479929115aed5df92f"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.77.woff2",
+    "bytes": 17324,
+    "sha256": "36ea582f92e12fab3cca568138ddb8c49cfaa573edfa1bc371dddd2795507285"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.78.woff2",
+    "bytes": 22956,
+    "sha256": "681e0e9e4b5cd0f6fa731405f4c284de71a2fba825322a6d89b0bcf20ad04453"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.79.woff2",
+    "bytes": 18780,
+    "sha256": "4c236665a70e2739275e5a2aa7469b839ea470fc498511f45b4afcc6074f2889"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.80.woff2",
+    "bytes": 14532,
+    "sha256": "4f2430e00c7b77fa48aeb73af3a2848ea9d793ac9fd0fe3a49bdfe382ca55f22"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.81.woff2",
+    "bytes": 20904,
+    "sha256": "14cf83af7e299d352c7a4f5c4b5aad82efddd6e179ec130ea7851963b35aba55"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.82.woff2",
+    "bytes": 20584,
+    "sha256": "a2b7f647b74c7c9d5745c5e0e22681e1c148aa0fdf9e3d3e819c45552335bde0"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.83.woff2",
+    "bytes": 20636,
+    "sha256": "adf48c42fa7cf58881ffb2f06e6405b8691c044341a2e7a38216898c872b02f9"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.84.woff2",
+    "bytes": 14720,
+    "sha256": "e33b6f92064ff808d6b36a992aacc4e2d44e4eb9d494171a97bb2a2f779312ec"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.85.woff2",
+    "bytes": 10588,
+    "sha256": "ce5ace88b5bdfac9d01a5e97a7e0ecd4893789d5d174bc5e9b9243539500e995"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.86.woff2",
+    "bytes": 6684,
+    "sha256": "ccbff76f8258e1c3432902478d9dfde22126e3fd761b065dcb401762c2dd36d9"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.87.woff2",
+    "bytes": 1192,
+    "sha256": "db1833bb93ebad6e175cebe0ce63cf85e57ca6e504035ce2c2736fae3638a04c"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.88.woff2",
+    "bytes": 1656,
+    "sha256": "f259a4b1b365b2bd540cf9645f3c4c31b3224f9d2d889fdb4c4ea139f430cc53"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.89.woff2",
+    "bytes": 4192,
+    "sha256": "0836afb86055614b13d28f904d5263f04f0d85668eca6c2badcd9679ba2de792"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.90.woff2",
+    "bytes": 4076,
+    "sha256": "a84b2f68d7947d5f4c7fa95a753bd7baddc560e727cbe14935a46fc894ebcddb"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.91.woff2",
+    "bytes": 4688,
+    "sha256": "c14dff43d65c47d5b8584726e3656a969fb583f29287051b2c783a200de77a9a"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.97.woff2",
+    "bytes": 1640,
+    "sha256": "4b4c9cc5551363b5f890fcc15d99992db446d1574c6fac4fd5884491133bbcef"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.98.woff2",
+    "bytes": 3500,
+    "sha256": "45c422c89faa98d2c0a99b1bb1ad42ad941169801078afba5c2f8117e45d2a0d"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.99.woff2",
+    "bytes": 7856,
+    "sha256": "adc512d8a6e4ceb374765e8ed91c0dc752813e426485dfdc293dbbc0a6ecbe27"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.css",
+    "bytes": 102006,
+    "sha256": "c0f955b57df27032e7e9b549a929b0c737219b372c2c9ad63d14bd0fa273fe28"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.cyrillic.woff2",
+    "bytes": 6112,
+    "sha256": "20dca333adfbd97e265f0a14d8336a315c906efdfb87e05382e7ab09de3cde0e"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.latin-ext.woff2",
+    "bytes": 11644,
+    "sha256": "f9f34df5851b82d826c8e7de930edcd535658597519ee550afb863afbf228566"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.latin.woff2",
+    "bytes": 13160,
+    "sha256": "1b382f7f50365d12e83f292ab379d73e3dc3d7d3fd616f6d2c3c0ec22e8d9c74"
+  },
+  {
+    "path": "fonts/misans/MiSans-Bold.vietnamese.woff2",
+    "bytes": 4428,
+    "sha256": "3f77a3f38dbd6110af75829f9a154f4a3770d3637decc854a5423f21f19fa2d8"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.100.woff2",
+    "bytes": 28368,
+    "sha256": "6941d7403b38705c71c9668998139bcf135e6953aa6c8ee6b7211d517d93401c"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.101.woff2",
+    "bytes": 25984,
+    "sha256": "cf962ac2aff5f8afc167680efe98cddc53125947080a2863bf2c1269290de949"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.102.woff2",
+    "bytes": 26584,
+    "sha256": "b701933021d0a4a831f2a228435439834099991c445a77b5111f500640c46b21"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.103.woff2",
+    "bytes": 27900,
+    "sha256": "0b965d5d552c986f1c95cdedb8dbd98fa986b46bf7a2a352a15df8bb56d5376d"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.104.woff2",
+    "bytes": 26704,
+    "sha256": "04ce3be4e9d6f6f1945ea0ca172e5d34428bad919b0b9986652a38b7473af38e"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.105.woff2",
+    "bytes": 27464,
+    "sha256": "8d2744e92842299032b19f22995a9c9d94b73505230bf2cc355b95c73c257b24"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.106.woff2",
+    "bytes": 27536,
+    "sha256": "a53d3fd0bb90149f64f1e9e0da8a53c35c094ce5d1fc389ac9cfdc217027808b"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.107.woff2",
+    "bytes": 26760,
+    "sha256": "2e8ff88298a9a832c401be3df6f1d8524d27424f7c334ae105384ac16908a295"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.108.woff2",
+    "bytes": 27740,
+    "sha256": "f38cd7ca16255bbb5768fedd60188706a2e0a4605eab4d050784e870b2177dd0"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.109.woff2",
+    "bytes": 26288,
+    "sha256": "f7cf3ac2988ffb509d62430c0a332e2286dc81b37c1eac45e528d37a0af5cad1"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.110.woff2",
+    "bytes": 26500,
+    "sha256": "43f32a90c17899d0cbb6a39a546112de87c25937bde863dac5dfac85ef447230"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.111.woff2",
+    "bytes": 27412,
+    "sha256": "6bacf09d8446400c8034d2c471e4f557e5ed721c36e7a543ce6a61e94a747a72"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.112.woff2",
+    "bytes": 25376,
+    "sha256": "f16421d71630b63d3526fa23d0da9d410a2a71515b8812ec2ff194f84d9e1c3e"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.113.woff2",
+    "bytes": 25508,
+    "sha256": "48144fa67dbec30cc8a7fd468ae13d4b5fa4d673aacc9412e29dc3717ad1930e"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.114.woff2",
+    "bytes": 24780,
+    "sha256": "ab10b88cfc4409033883ec6f8d46029514c5338ea6732615ab6546b2bea4a6ee"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.115.woff2",
+    "bytes": 24296,
+    "sha256": "ef633f493ed52768d0b9c2bdf5a61671749e5c527cee4fff2d8d53b8673acfe7"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.116.woff2",
+    "bytes": 22664,
+    "sha256": "63fc7bd1156851779a31000e8c8c02c50fe583e95baf34a2efa83b5021bb6b32"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.117.woff2",
+    "bytes": 22452,
+    "sha256": "8fb860941c8166981517fad0ae17e4193423947c132a7395ab5ec093555cc0b3"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.118.woff2",
+    "bytes": 19956,
+    "sha256": "042ec1a331c642bc5e23df5f07d3cd3761d3c2d01c19f24c33174b60be9a3656"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.119.woff2",
+    "bytes": 17756,
+    "sha256": "54d8a8a7de1ef2d1312aec133251c11962195c1d9ca1479255dc879989cb7f4d"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.21.woff2",
+    "bytes": 4908,
+    "sha256": "41f763e2bc4be7d1e6e7ec60395c67a0e92f287a2f82eef1c4f0c12172c7b717"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.22.woff2",
+    "bytes": 29520,
+    "sha256": "90222ac36c2e861f6183d93c84c1ca75e24a794a027387a9873b8950ad2692b4"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.23.woff2",
+    "bytes": 27328,
+    "sha256": "f1eb4cd39861fb1d4985c4be85f16da86c5655b87f77725d0ac54ec556da7d3f"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.24.woff2",
+    "bytes": 28692,
+    "sha256": "e914e3bcb1a27a17a509a786f430694a7e25870d1fccbec2927b617a7676066a"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.25.woff2",
+    "bytes": 27824,
+    "sha256": "0e562ad5784e9ad6548921c1dc5f2e0837863066f230b648d3dfaf7a4ed2bef0"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.26.woff2",
+    "bytes": 24728,
+    "sha256": "695ab8e79bc748b00abe0c144531c7107449ab1db0230be8a1ac0b816d0c2ab5"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.27.woff2",
+    "bytes": 21616,
+    "sha256": "5517c96b07e6afea3030162bff7ac878a0e1e98708d1a87be0a84f5d646363dd"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.28.woff2",
+    "bytes": 22268,
+    "sha256": "b3a4cc990a73109a4fadcd0bd192fe781292da05d97e6ddb66133ae1f0baa567"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.29.woff2",
+    "bytes": 25264,
+    "sha256": "730cf43fad97b173a76fe919ec44c5b5f23a1cdad4f42f6d7b9b6b3cb1a429ae"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.30.woff2",
+    "bytes": 26956,
+    "sha256": "7cf6fbe84dbb90495e090b5e7b6f3c5ac929bd0ca5cb0d3d4317a55e8ed89484"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.31.woff2",
+    "bytes": 23076,
+    "sha256": "5c8db00adacff4034c44a3fc23288ff0b0cd6d411a8d4f416959bb7c4f57b2f8"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.32.woff2",
+    "bytes": 22028,
+    "sha256": "4a3245bcd6c7870ab26c4df106d79de1e8785315eb7cd1c5edf07b8136d0485f"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.33.woff2",
+    "bytes": 22656,
+    "sha256": "6ba5634f1a96a241c54ecaec205c11e7beda8ce47b365a3b0b643945ad118a92"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.34.woff2",
+    "bytes": 22372,
+    "sha256": "a04a9d9c2c03cd991d70968aaa6f60e1e2ef9c02d696661d79b09f15964a16b7"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.35.woff2",
+    "bytes": 21484,
+    "sha256": "1e23f84816f914584383fada3d7df061d46925ddacb7dc196e012504c5d3b733"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.36.woff2",
+    "bytes": 21352,
+    "sha256": "c9ae14a7db29fd818e0b17b8dc24ab2dcad3d89b7e5a2f0653d0faf64d3bdded"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.37.woff2",
+    "bytes": 23848,
+    "sha256": "52448b40458f5a3074bd9c95fa7862288653f7ac03a08b1f7d2eac2cb9937800"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.38.woff2",
+    "bytes": 25424,
+    "sha256": "1216990180df1f91a4099cdb79cfd0b304551921628944301a1971a9f54c9ab6"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.39.woff2",
+    "bytes": 23980,
+    "sha256": "bc389b6a3c52de1c0d2c4f6fb9957318d80fb72c1a5b2ab2fed40c51db344099"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.40.woff2",
+    "bytes": 21320,
+    "sha256": "37662200083a2b42260c049b7bafd26ef1e6438801324400e454ec36b88d9461"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.41.woff2",
+    "bytes": 16588,
+    "sha256": "4f5a90bed0ac7d0700b9baf838cbac3598efe642d14269fdd0463d869d5bf18d"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.42.woff2",
+    "bytes": 21220,
+    "sha256": "ca850a4662f144f49e1a33ae00f4c4d66f0919409e921fb63b774950a4edfd55"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.43.woff2",
+    "bytes": 21624,
+    "sha256": "bb0cebd418fa6d568c4befb7226215356f86962031d47d522e6787e9ebcb8bc2"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.44.woff2",
+    "bytes": 23896,
+    "sha256": "14cf37d42fabfaee5619a9d5385dbc9d5a9f4867be1771f8edbe72b0de4243f8"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.45.woff2",
+    "bytes": 30100,
+    "sha256": "3109f3ef750c0f559ddffeac22c31092faa0e61ffe49fd0059e02ffb8a09568b"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.46.woff2",
+    "bytes": 26984,
+    "sha256": "ff936a7c89b297f06e360731e3b5a2208ae1ca9474917bd5e7e68d3b18c4515a"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.47.woff2",
+    "bytes": 26932,
+    "sha256": "68db38419a8b0086bd0effd885851aec3a7fe9303e90dffec72ee00787c5966c"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.48.woff2",
+    "bytes": 22772,
+    "sha256": "8b60fd59cea960d2d074f1f494e2ce329e702bf9ea7542c563bc713674c7d3ea"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.49.woff2",
+    "bytes": 24344,
+    "sha256": "bb3ac36b6627477e04cdf46aeca08a05eca31ff4896b029788fee1e2f4e8cc18"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.5.woff2",
+    "bytes": 3856,
+    "sha256": "262053ec4fa7efe7836b6dd5676fedbc617605f561b6aa7ffc49b59b53053d22"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.50.woff2",
+    "bytes": 22016,
+    "sha256": "240f1123cc899c16abcaeae94cec288b2901c0d159c37bbea19f04e85ecbaff7"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.51.woff2",
+    "bytes": 19300,
+    "sha256": "590505f4cd927420fca72b189f6722d113ac7574cc436852b18e53b22cde17ed"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.52.woff2",
+    "bytes": 24156,
+    "sha256": "909f35dee2bf57c75cf706d89aa41e84ce8a4c03fdb597a060fde9833b311001"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.53.woff2",
+    "bytes": 19988,
+    "sha256": "b9a8ecc5f57817df1375ee0d96503958eb3bf577810a6c7dc89c7dab0d7f21fc"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.54.woff2",
+    "bytes": 23968,
+    "sha256": "861e93d995b05946484f11b56787a80bac9216157efbd90f9f7e22f71f02c517"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.55.woff2",
+    "bytes": 22688,
+    "sha256": "549e121832d8f8182fcfe36bc2bd836d2cdd000536ad5f213e2089ffcf34e81c"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.56.woff2",
+    "bytes": 25764,
+    "sha256": "8ce7551720d0f4c6113094f0620ded1a64e73c75f247e3db6b5ece2c7dbd25c0"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.57.woff2",
+    "bytes": 25556,
+    "sha256": "d63594f5231193bea0cd1cbc130ee55624d63f865350d32178b598d1cc3b80a1"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.58.woff2",
+    "bytes": 27376,
+    "sha256": "daf3b5c44879252ea32a9318d10018ce74eeb10284ade8a6a0b5964d58d5a993"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.59.woff2",
+    "bytes": 23372,
+    "sha256": "bb9301aaa941cfbfa6a4ec1dcaf1462b854df39a9ddb83dd36da9e9056c68fcb"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.6.woff2",
+    "bytes": 3332,
+    "sha256": "0918b9128fdc18b7e9f2e8e9c17bcc74a04ad349b7231553554b23104d5eb6e0"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.60.woff2",
+    "bytes": 20328,
+    "sha256": "96212fb1cac54a2d0270cd5e3753eb5708395dee102b58a81c4949f1f4b7f131"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.61.woff2",
+    "bytes": 21360,
+    "sha256": "c1eb0da7f5015bd3de42e08166238883ac165b3da01e044852cb3fb4df022c6c"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.62.woff2",
+    "bytes": 26384,
+    "sha256": "0a290a3a33e451a09f57362992740318a0cb86f586415d4cfb35c67c24e2d33f"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.63.woff2",
+    "bytes": 22080,
+    "sha256": "4406b3fa60c7c38094444f9d5b9e3484eb486607fa3942ffb16e5c39b203caf6"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.64.woff2",
+    "bytes": 18048,
+    "sha256": "878dfdf9c039c1afdb73b4ec3a001d95a5b02ebc583a7691e16c622fd276b37f"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.65.woff2",
+    "bytes": 19148,
+    "sha256": "d976ca1905ea4f4cc40f765fe86e0f99462c19bbb51fb3ea23c38f48d298d898"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.66.woff2",
+    "bytes": 23688,
+    "sha256": "e1309fbf5d4325667dce36812a8660d88b2246b5fdbe4fe140ee249dce5c76eb"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.67.woff2",
+    "bytes": 25888,
+    "sha256": "7f4ef338298564aea39af690efe38b04fa61c4d160ee56982012e35d9efe6797"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.68.woff2",
+    "bytes": 20928,
+    "sha256": "a387a128208d0afb06f2a746100f9eefeab657c62278ac7f4152f2f390645ba1"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.69.woff2",
+    "bytes": 26544,
+    "sha256": "31049941ce6ea63b3a96bce01d4338e9bdf5f66b848cce2013aa900268c925e8"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.70.woff2",
+    "bytes": 19284,
+    "sha256": "466908ee477e568b4897dec796ead9e562cbc5356c2b3e453610f4070499eb3c"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.71.woff2",
+    "bytes": 21388,
+    "sha256": "ead47eefbf32e0230161fbf74ca2b22b130558ff9bb6465712459723e323522a"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.72.woff2",
+    "bytes": 21040,
+    "sha256": "c007f0cafbdbd22df3f406a5aef18114ca137b46f7b22a01656c7bd3e73408f8"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.73.woff2",
+    "bytes": 17592,
+    "sha256": "72a38c5cdc50ff07528a0d4e358e21714422fd6c81c83e13c21efd4bd9e176fc"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.74.woff2",
+    "bytes": 25808,
+    "sha256": "b8afbdd98ca232fae14bfa79f1f99711e5887b374c6d53c1813e94f6f3afc13c"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.75.woff2",
+    "bytes": 22120,
+    "sha256": "42e9b2abae3c9c611a145603330a1fd79ddd441556f3f8a9ddab2176c198ddfe"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.76.woff2",
+    "bytes": 22176,
+    "sha256": "bfc993c360af02af24fc6d0d65e3650724c2d16d1f6fc742607ce05bf22955f5"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.77.woff2",
+    "bytes": 17244,
+    "sha256": "a64c2d460533fb0054cb6241a9d8e886d9ccc0fd00068ad2d17bb9feff77a5e5"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.78.woff2",
+    "bytes": 22476,
+    "sha256": "af83873e395097de5610eb8baf649442fc71c33a6ddd587cd7be01cebb11c7a4"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.79.woff2",
+    "bytes": 18504,
+    "sha256": "eb47385ecd74ba3d6cd869e206d4d8f16d67c6d681313b53064b3627ddf3e4f9"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.80.woff2",
+    "bytes": 14480,
+    "sha256": "551a86e74a89e685ab4d101d4d62e398610d8edaefbe41d3827733f329e9e109"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.81.woff2",
+    "bytes": 20620,
+    "sha256": "427622e5064b74ef75342adfad0a95a5d7072e2f37e0cf946f7b30beefd629d5"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.82.woff2",
+    "bytes": 20456,
+    "sha256": "b55b24c8e733956978fe271eace7d98ffcec916b7d7a8637893e20da1e6afc11"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.83.woff2",
+    "bytes": 20464,
+    "sha256": "c8140030703d54b655f6d2eac6742a05e7e224dec85e44cab81f565bea761d5e"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.84.woff2",
+    "bytes": 14668,
+    "sha256": "f0b9cf91efee1872c9dd612eef77a9a81149675550002cac187b50b821167c60"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.85.woff2",
+    "bytes": 10484,
+    "sha256": "b67f5c2ee6664d9b29f8b8ea0a37ca719e68945a15c93c4050b5a5012bc7ee42"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.86.woff2",
+    "bytes": 6484,
+    "sha256": "4ea87620f82c6a7fd81b02a39bd39ae841671c8a17edff03aa56dcfe666952ca"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.87.woff2",
+    "bytes": 1196,
+    "sha256": "09dace8d1d0e2e26146f8253eaa6e8a52054d6ce4fd4dcab9a3b7e1ff0982b47"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.88.woff2",
+    "bytes": 1648,
+    "sha256": "5085293f0be9ac6ba32f1e77eb9ffb76c12340cfb9b7ae0befcda8fe424c9f80"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.89.woff2",
+    "bytes": 3548,
+    "sha256": "749234fc9ccd2d82c244d018de2e4da3bcc6a1609e718914601be6621cd77a4a"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.90.woff2",
+    "bytes": 4048,
+    "sha256": "350dcc4d22e6ef9190b66b52bc98b3e1c13f9ab46aaec9538c66f0ac4ccff3cf"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.91.woff2",
+    "bytes": 4284,
+    "sha256": "f61da21897b1713574180cdf35587e7856d6ffdb1ed1e17a1095a73f87a2c3cd"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.97.woff2",
+    "bytes": 1596,
+    "sha256": "94716308fdfd8a82f3a04df8b7f53bff00333f28c2c98eb4b40018daa09a2518"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.98.woff2",
+    "bytes": 3420,
+    "sha256": "21ef7afaa9d3640f2fbc1255594e404fe172396b2bef8a3240ac2d8b71ed5d96"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.99.woff2",
+    "bytes": 7396,
+    "sha256": "f36bd815e480d676d9bacc26b2224e82e47935abc7a8bfe65451ee9fac58883f"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.css",
+    "bytes": 102306,
+    "sha256": "b18c057cd71e5357a81d2d87da5f6377c1cdc766d750bb90a509110454b77709"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.cyrillic.woff2",
+    "bytes": 5892,
+    "sha256": "1b62781972701d389a3a84e0e48bece5e869feaff37bf32117f59a2503e9b3d0"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.latin-ext.woff2",
+    "bytes": 10904,
+    "sha256": "e8ee7484c3515db8a89bce06238726b919c84fddabfc36fe4b44d9f15731f581"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.latin.woff2",
+    "bytes": 12608,
+    "sha256": "c85e6e74c2eaa4ad92e4158b23c8e324e49904b3822ef3a024a18c35dc86a980"
+  },
+  {
+    "path": "fonts/misans/MiSans-Regular.vietnamese.woff2",
+    "bytes": 3892,
+    "sha256": "171ee9c2fe95fe2155e3d02bc3605c3ea38f7b64b8d53f69b1c9f9322f99991c"
+  },
+  {
+    "path": "fonts/poppins-latin-400.woff2",
+    "bytes": 6496,
+    "sha256": "d66325cbb6fb2369c08e6c90b8481abc3b8d1dea8c06399e138b4c7e6aada6e9"
+  },
+  {
+    "path": "fonts/poppins-latin-600.woff2",
+    "bytes": 6592,
+    "sha256": "8ae4caa99b41b9ff5d046de68c069d80db6375a89dc2f0982c0b2ad08a354df1"
+  },
+  {
+    "path": "fonts/poppins-latin-700.woff2",
+    "bytes": 6464,
+    "sha256": "3164a71361495f62db1a84c3312857ef27c9249a7f8c69d3df123cb295e221f8"
+  },
+  {
+    "path": "media/00c3e4c529991c97.avif",
+    "bytes": 27448,
+    "sha256": "325fd06b5cd0695879c6773c8c8eaa32cf5e1e1b26c74127b98e83f17729813f"
+  },
+  {
+    "path": "media/03e6bf0c6f08940b.avif",
+    "bytes": 39405,
+    "sha256": "5a476bd1a27917769d8d45b2f70c500b5a5a07e7f355b898e4b7b57a2e93ee88"
+  },
+  {
+    "path": "media/06daca75870412bb.avif",
+    "bytes": 2760,
+    "sha256": "f76b3790cb7ac408dc4def710659167b33b4bc649213bb4a817f813a2dad3317"
+  },
+  {
+    "path": "media/06fea0ea5cb75dab.avif",
+    "bytes": 46158,
+    "sha256": "cca8c19f51b14579d925d41a312925472ec2800a78d1dfd2621859ac8c997f49"
+  },
+  {
+    "path": "media/0c606fa4bcad527d.avif",
+    "bytes": 58827,
+    "sha256": "af4f6e0ca6fef42712851086543be8f89a5bebaa34e60d667c92b748a1912e8a"
+  },
+  {
+    "path": "media/12a4302267f46259.avif",
+    "bytes": 39428,
+    "sha256": "2ea3d3cdab4cf44eaafdc712601e19f50b4aaee6dd1281fbe55f1ef10edd1d5a"
+  },
+  {
+    "path": "media/1757931492744534.avif",
+    "bytes": 39998,
+    "sha256": "152d17c68ff49eacb7de1221bea8f1aa4d410fff89fee38270430f97727040b6"
+  },
+  {
+    "path": "media/18609652482112b9.svg",
+    "bytes": 215,
+    "sha256": "6fce5a0604a6267ad769dd5e7afbfcf8bd0390897f682aec71f6307999a5b67e"
+  },
+  {
+    "path": "media/23881a8ccd6f15f0.avif",
+    "bytes": 64345,
+    "sha256": "90b748420230cd105be5ffb3ffd291e229fa603a2c6fb15a3e10c918c069e373"
+  },
+  {
+    "path": "media/257be1f60715c76d.avif",
+    "bytes": 42590,
+    "sha256": "299c7fceb9f43203e12fcd3e06b50adb65a97b7f3ab1e5b8213b84de2da4b0aa"
+  },
+  {
+    "path": "media/2e6c16e2963ae164.avif",
+    "bytes": 3942,
+    "sha256": "a4a63eb9c54f5ed9f76b44faf74972bcc6f5e64d13bba458db9d16d55c1a7df7"
+  },
+  {
+    "path": "media/323cb85481e617ce.svg",
+    "bytes": 4745,
+    "sha256": "9f5c8974bfce5a92382ed5bba33a5d0c832510be77c0245bb7784022b0e1e749"
+  },
+  {
+    "path": "media/35175a7b5423a83b.svg",
+    "bytes": 3271,
+    "sha256": "0c59b6161db20c9495f74b486571403cb2c6f710626a3ff42355f02c82ee658c"
+  },
+  {
+    "path": "media/393e8836a6814dad.avif",
+    "bytes": 4326,
+    "sha256": "14d2e39e115ea132d8bcfc665fd927361b3f4f1986bb7c1e904dc2958bc56d5e"
+  },
+  {
+    "path": "media/3b0edaa11f9121bd.avif",
+    "bytes": 32056,
+    "sha256": "b3a76ad83e3fcd3081b1344502ec966ddde673ba40c080e92ede20f880a74063"
+  },
+  {
+    "path": "media/3ebf3102410e98cf.avif",
+    "bytes": 55381,
+    "sha256": "616d5665e1f236c25204561facc33facb65830ac40b15cce4995b50d62870f97"
+  },
+  {
+    "path": "media/3f4a6e4ac9ead8e1.avif",
+    "bytes": 64683,
+    "sha256": "a72b9a8fd2326caa6a5a7983ce6547f00d28de447efe80011cf104a39fd8480d"
+  },
+  {
+    "path": "media/3ff8fcdfd677c356.avif",
+    "bytes": 17324,
+    "sha256": "ba4a3e2f33064b863d9699405e5c489f833d4240659ce54d87fe48041648a4f8"
+  },
+  {
+    "path": "media/43e6d4f90d11d151.avif",
+    "bytes": 55287,
+    "sha256": "73698afd907192a1656a1cad2a59f2c48357ca961b86e2a2f7bdbb96a0747c65"
+  },
+  {
+    "path": "media/441dc9713b38b5bf.avif",
+    "bytes": 46626,
+    "sha256": "b07fb0051258a8a0d36a0f4b1ad6f4770b315bb851950ea01c006ec7779de9c7"
+  },
+  {
+    "path": "media/46b8507611b20596.webp",
+    "bytes": 39682,
+    "sha256": "5a5e6ebd42477c6e383b04d6d97567bd21f2daaecc8f9a6e12f04ae196727648"
+  },
+  {
+    "path": "media/4a58ad7cb4291f95.avif",
+    "bytes": 42922,
+    "sha256": "7b72fab266bc3e2c7f29a6df87f07de8df8a4127c3dbb3e8ec8ea8d8d7a5a4f9"
+  },
+  {
+    "path": "media/4e2b05f8221e232c.avif",
+    "bytes": 2912,
+    "sha256": "5b258050b71e5c90f89048c66ca070cc37799ec3333e6509b8a45fb463177801"
+  },
+  {
+    "path": "media/4f056765ea3b7c81.svg",
+    "bytes": 214,
+    "sha256": "ca764b5867087d3c5ffc2bb0497a50b2ecf18ae7252169951ec97e18a592973d"
+  },
+  {
+    "path": "media/501eb081a4941bad.svg",
+    "bytes": 11012,
+    "sha256": "86d0bf36b2dfc299a440f57ca20187c50c762e6bd72ca02e069929679eaa9df1"
+  },
+  {
+    "path": "media/555225f0bd9642f0.avif",
+    "bytes": 1966,
+    "sha256": "99f9aefa91fe1f723f8698161c440e7c836c105caa6b9f858151fa088f146d62"
+  },
+  {
+    "path": "media/55e3cde452b093f1.avif",
+    "bytes": 40201,
+    "sha256": "0f9a665389dadb5b660b8ae5dc0b5275e59c705f429a1fa70142272af97c093a"
+  },
+  {
+    "path": "media/579be9e73d2467de.avif",
+    "bytes": 3810,
+    "sha256": "467acc7223756a2ef961e657a54ac76bf52e50b2f1b3701184bda116e55ebf21"
+  },
+  {
+    "path": "media/59032eb63a55fb2b.avif",
+    "bytes": 46777,
+    "sha256": "fe2cdf1f339d390805afd64795d236f0b548efc1ebcd3cb5f727e67e2a6b862d"
+  },
+  {
+    "path": "media/5c8002515bccfab8.avif",
+    "bytes": 8952,
+    "sha256": "e3f2cabba80f2215c17847266df079b31bb8b63438cdd171e6729723c0c5a8ec"
+  },
+  {
+    "path": "media/63b7316913d987cb.avif",
+    "bytes": 19094,
+    "sha256": "21651e405772cdc0cad867dddb89b35654c14aaf33de7a441987810ca370b7fc"
+  },
+  {
+    "path": "media/65496ac77dd7dba6.webp",
+    "bytes": 21620,
+    "sha256": "d697cdb285feb57e0e8ea264cf29ec6f22a0b3830e1d17bc9b560c549c403c8b"
+  },
+  {
+    "path": "media/65d8acc2d03fe7a0.avif",
+    "bytes": 3259,
+    "sha256": "9e9f1ed4a84d83aaf0d73f598b40bc7c071188234ef0db685c5bbcbd6258e79f"
+  },
+  {
+    "path": "media/67974a8c95050695.avif",
+    "bytes": 46619,
+    "sha256": "0766c43f8db80b000b5cfadfa6f11fa29cc916859f0a4df73e2c21d6a85fd154"
+  },
+  {
+    "path": "media/6c11adc920eeebe0.avif",
+    "bytes": 2564,
+    "sha256": "a0843ea4425dc2209b2d8b80479424ccb47b375b15eab9bc8e53677c309040a1"
+  },
+  {
+    "path": "media/6c5c992d9a0da09d.png",
+    "bytes": 1837,
+    "sha256": "c78893a9ec42853ee3ddfac095fc21936ee357a48deac982ee12084cf76a2989"
+  },
+  {
+    "path": "media/6f4cec9c05973fb7.avif",
+    "bytes": 8531,
+    "sha256": "825a16eec8609cbd6fdee6b7863686bad988e0357fe3d60a748b7c22f3a26c60"
+  },
+  {
+    "path": "media/71681da33185b0ff.avif",
+    "bytes": 37005,
+    "sha256": "a287c113930121e813fba09e1769e43c5ae623bda5b6589bab1b5c18bbbf6e89"
+  },
+  {
+    "path": "media/74a1d2192d320a27.avif",
+    "bytes": 9539,
+    "sha256": "e5e4df9e3573ec40ffbfa58539b94ab1bd52227441338dcaab0340d88c70a943"
+  },
+  {
+    "path": "media/78d34ead39156343.avif",
+    "bytes": 3545,
+    "sha256": "a0f0d6b66fc2873d4946989f3e80788790d18e19e8d653b4ec6d93aa43be00da"
+  },
+  {
+    "path": "media/79867c2521cebf9a.avif",
+    "bytes": 4525,
+    "sha256": "8494ca61be6a512fbedddd194baf57607efcdfec38994e1c33eea24b80442aa4"
+  },
+  {
+    "path": "media/7aa91fb2f9f6a566.avif",
+    "bytes": 21840,
+    "sha256": "c09a51f4214cb5978e0a08bb45fb45a3fe06c9ac2d379ce88ceed03623568308"
+  },
+  {
+    "path": "media/7b678c69d2224748.avif",
+    "bytes": 46859,
+    "sha256": "57e11a51f37b461fc4d701bbd81f37ee9a79a1cbb93402e4c3e48e7ebcc81389"
+  },
+  {
+    "path": "media/7d85beba5325837a.avif",
+    "bytes": 43840,
+    "sha256": "e046cb98d785bcb64a5bec59fc21c2f312570b53abeeda67b1f1407487d65b3d"
+  },
+  {
+    "path": "media/812d44e5d895e355.avif",
+    "bytes": 5101,
+    "sha256": "72c9c55dd786bfd01a009ef3b7643a13a2cdc0c756d9039ac28332736cf4da59"
+  },
+  {
+    "path": "media/81c3baa398d0d0fc.avif",
+    "bytes": 50501,
+    "sha256": "0d617494aa8341c77f0b51d76c3805935b6258726936dcbdb0467890914c80b8"
+  },
+  {
+    "path": "media/899b6da2b6263d39.avif",
+    "bytes": 21432,
+    "sha256": "86e738495348f8a465a3e41cd2913c67f62730aa0f5aa8f270f2a41e841d335b"
+  },
+  {
+    "path": "media/8c22396b81220ed1.avif",
+    "bytes": 11570,
+    "sha256": "13b20f949bb69b5277f77b3ef70a6717288fad10c213324bc5c770c31eaa546b"
+  },
+  {
+    "path": "media/8d61b0306b972e17.avif",
+    "bytes": 55130,
+    "sha256": "428f28e44d92eca11c957eab31c0b855e2f9f79cae826c67c32b15546066f045"
+  },
+  {
+    "path": "media/8da64b295c8a8280.avif",
+    "bytes": 4440,
+    "sha256": "393e7666f00fbbc14d2f9e7150d380a1e91e7899100a6231bb85e23954a7ecd7"
+  },
+  {
+    "path": "media/912649159e561684.avif",
+    "bytes": 48215,
+    "sha256": "26e8123f6e0c02effafcb2b242ccaa8591a2714080b2837b9e4eeafc48cc2995"
+  },
+  {
+    "path": "media/920fd98b0b44e6fb.avif",
+    "bytes": 1608,
+    "sha256": "677f52d211023d51067261b4abb443979139c7be55eab3fb943e2a59515e5dec"
+  },
+  {
+    "path": "media/94b1e2441bb29767.avif",
+    "bytes": 33831,
+    "sha256": "e45321831ddf6d32931c771dc533e92fbeee2f1d507f6ba1dd183efb5c804c13"
+  },
+  {
+    "path": "media/97fd428faf5e1f9d.avif",
+    "bytes": 35866,
+    "sha256": "4c079f98e97b81a7f75528e36a94339a8f4081e66cf18f777ae99d1c262592be"
+  },
+  {
+    "path": "media/9b908da4cc26b6a4.avif",
+    "bytes": 4272,
+    "sha256": "ee954a400027bcf3f38f2bde52e993f567898b536790c5f934287b3fb5142e76"
+  },
+  {
+    "path": "media/9c359ce5c31d0e86.avif",
+    "bytes": 50057,
+    "sha256": "ee07847629d559d5c976159ad70efabcb7398c60f50d9219390e64ffcca67d60"
+  },
+  {
+    "path": "media/a696e98ec0f1d83d.avif",
+    "bytes": 80954,
+    "sha256": "0c200b22ba0eb0e19f7003db9659c87e45ef5e97c514c8fdac78f55d8f0fda02"
+  },
+  {
+    "path": "media/a9bd56ebec79602d.avif",
+    "bytes": 10198,
+    "sha256": "96800a7c083d171bc1e48579fe7c33f2f297cfd30b7027da57cc1fe3e78915ff"
+  },
+  {
+    "path": "media/aec5ded1a44f1eab.webp",
+    "bytes": 23758,
+    "sha256": "f0df409c15ec01eb0a3a6649b2e7c974d4c1cf6a4408c098a9c8f9df2f6c7791"
+  },
+  {
+    "path": "media/af8eea37d22ba3ac.avif",
+    "bytes": 45793,
+    "sha256": "6e5bfb27c22d7bcc0d0c3e7351c81c97a1fde9e2e4cb17f715f635b9b2dc7579"
+  },
+  {
+    "path": "media/ava-poster.webp",
+    "bytes": 125710,
+    "sha256": "2bfee44f16a621d943e4cdc0c8552a9e5bf4eb9287c4ab8879b55ff8ac551b3e"
+  },
+  {
+    "path": "media/ava.mp4",
+    "bytes": 2292679,
+    "sha256": "a860225d70e31eb2becff2998e92b1a4dd2ab96b28a0f708975565b1c49ae664"
+  },
+  {
+    "path": "media/b5dbddbe346ce6ec.avif",
+    "bytes": 51474,
+    "sha256": "9ae3e6d538028c34718e0ffefc1c64ac7f6db387c4168b9750e18ec9e7d39673"
+  },
+  {
+    "path": "media/b7a3780e04ec4321.avif",
+    "bytes": 38053,
+    "sha256": "983219cbbadb9c4364b4f8d74b6fb53f3c6551f9c475f07c49117f2c0edf377c"
+  },
+  {
+    "path": "media/b7d93834360c2208.avif",
+    "bytes": 3921,
+    "sha256": "a5f559d2cdbe14a806d8d53ef8e3dcaeff157df235cf35d042f5d865741018c7"
+  },
+  {
+    "path": "media/b9092814e15a0fed.avif",
+    "bytes": 2863,
+    "sha256": "ea67eed29d353a990e8e98d17733e622e6b2c7e7d38f1515d6c93f1fb8585a15"
+  },
+  {
+    "path": "media/c049260dd318ab41.avif",
+    "bytes": 57587,
+    "sha256": "045f3d1fcd96c4f3b34dd407b94dfc6beb1325a6d029be5ca3013087e4364400"
+  },
+  {
+    "path": "media/c6e19c722c74d288.avif",
+    "bytes": 63400,
+    "sha256": "c5099bfa0465bcba9a840488f02fcc997c96ec1ca8d17d0b900f4d01e77461b9"
+  },
+  {
+    "path": "media/cf06cd265d4473e2.avif",
+    "bytes": 4191,
+    "sha256": "e93ad3fb223cf82d5d2ed9506cf7e3742dcb9f2c8f7c9274b739226ccc23ec79"
+  },
+  {
+    "path": "media/cfe4e1ac0845e4d1.avif",
+    "bytes": 59324,
+    "sha256": "cefbbe1a72d2498bd20d8f7c6030755ed3965daeb3f03323cc4b89ea6ca0f65e"
+  },
+  {
+    "path": "media/chris-background.png",
+    "bytes": 304271,
+    "sha256": "028495d51739834f0a38b803ca8dd49d0ee205086d6b7695caef0e84ff0b26d3"
+  },
+  {
+    "path": "media/claire-poster.webp",
+    "bytes": 123102,
+    "sha256": "184c1d3c03ddbf39425156838d688bc7cd76abc06b31c7d1d291adea00c528eb"
+  },
+  {
+    "path": "media/claire.mp4",
+    "bytes": 1354375,
+    "sha256": "2eb3bc0a336ebb2978883c9018c161e50246e4ab3f241505e67ec4126c3a94a0"
+  },
+  {
+    "path": "media/d093218d14aac93b.avif",
+    "bytes": 10019,
+    "sha256": "2145e7415b222c601bc13fcae709047df5e5aac1c11e118a3f888105f163e92e"
+  },
+  {
+    "path": "media/d15e60722e655d7b.avif",
+    "bytes": 22116,
+    "sha256": "daa6a6ad741a0d9a392606730c9cf7af0f4b59dac4fc476aadc814cb746b24bd"
+  },
+  {
+    "path": "media/d188ab00ad1571e2.avif",
+    "bytes": 17732,
+    "sha256": "6894be913baeb9a118f16fec5d5a71744a8dd0387e0ca049e81d95e95fb81678"
+  },
+  {
+    "path": "media/d28c7e8acc79a5a6.png",
+    "bytes": 1829,
+    "sha256": "da15d2e1a5da085a73cfdd37714472b24d26e39fe78fdc01e145ccec265476da"
+  },
+  {
+    "path": "media/d37bffbb25240d09.avif",
+    "bytes": 12481,
+    "sha256": "4ec48b14833286afdd34fbb6d74c91a2fcdc8e3442b80a0498ba80b2405888a2"
+  },
+  {
+    "path": "media/d5a820e3256233a6.avif",
+    "bytes": 99992,
+    "sha256": "1da352f62bda466af4e5053128455ca01b1e3bfdaac73441e1c74da584a863ff"
+  },
+  {
+    "path": "media/d75e60fcf18fcb01.avif",
+    "bytes": 4958,
+    "sha256": "8d3e4fabde71b97b109a341c8e8f7bf1bfc09a26cc90668b7a9dbc603d3f94b7"
+  },
+  {
+    "path": "media/df70bb54f6a555d1.avif",
+    "bytes": 5241,
+    "sha256": "66c461b80fe7101107925c4794adbc364d64e39bd9859ba4cd2be8c940757322"
+  },
+  {
+    "path": "media/e1e6c3049619f297.avif",
+    "bytes": 22467,
+    "sha256": "9bdc3ed500be394f77eabffee5a3235df6bf8244a781a687c05df510a58fafd9"
+  },
+  {
+    "path": "media/e56eed4bbd917497.avif",
+    "bytes": 6731,
+    "sha256": "c9367d5196bcb6d32794daf0935d8b1124e1ecfcb07aa97617a7d0c0608afda2"
+  },
+  {
+    "path": "media/e80f837815418016.avif",
+    "bytes": 12100,
+    "sha256": "d46c990241fac6bb104e1b3c09f791ef074e1f4da72f13663ec96208d3d603dd"
+  },
+  {
+    "path": "media/e8ac3be08852d534.avif",
+    "bytes": 103519,
+    "sha256": "47f70326e32ba68125a279891c04189712347b606f818777bce6f24304eca4af"
+  },
+  {
+    "path": "media/eae7aaafc89fd186.avif",
+    "bytes": 53270,
+    "sha256": "862f75245373f84e72a70871c881735c0d6b52e27424ffa9f95f3b9c6e3eab8c"
+  },
+  {
+    "path": "media/eb6fcecb65202822.avif",
+    "bytes": 10500,
+    "sha256": "5514295e4ca52432e52a532bc21075f44455ba1ae67e81d1c4fc553026159615"
+  },
+  {
+    "path": "media/ebeeb9b9f76221af.avif",
+    "bytes": 6201,
+    "sha256": "1fcb22817942a29fb9c1788e3a4f621f093c7c2816e522356c1085fa3f923f42"
+  },
+  {
+    "path": "media/ecd611f78f64f376.avif",
+    "bytes": 57135,
+    "sha256": "46fd79fd5abd07e9804be0b25d123f2d7477c9d5448bda95f6c884ad38024a73"
+  },
+  {
+    "path": "media/emily-poster.webp",
+    "bytes": 134752,
+    "sha256": "d28e3cf57132742d560a33e9b81cc18e28325becc6779f22062e3f6aac5a7c70"
+  },
+  {
+    "path": "media/emily.mp4",
+    "bytes": 3211770,
+    "sha256": "8ecb670bb343d851effd831dceaba3d2ce637f804e451ba1fa20454900c033fa"
+  },
+  {
+    "path": "media/ethan-poster.webp",
+    "bytes": 128124,
+    "sha256": "0ef6b50bee53676fe372382e3f7852a3aa21c46cb35e8985240370c857b071e8"
+  },
+  {
+    "path": "media/ethan.mp4",
+    "bytes": 1970084,
+    "sha256": "4aa9d32b49689ffe98deff53362dd977ff7eedd2931b2cbf41ebfa8b3b3853ee"
+  },
+  {
+    "path": "media/f20db510b6838267.avif",
+    "bytes": 30832,
+    "sha256": "31f1d6b82115bb8567bf315c89b4dda9a07ad5cd8504a75f5d588c755a871894"
+  },
+  {
+    "path": "media/f85e9e67d7364e62.avif",
+    "bytes": 25307,
+    "sha256": "ad22d07631d17e2085786793463b49abcd256b7b23c32dad4f24f8ac586e6d6e"
+  },
+  {
+    "path": "media/fae6bbb46d574053.avif",
+    "bytes": 3701,
+    "sha256": "71691035997261688f34171b93466e0a86b8e06658a97ea1f103145f9151a013"
+  },
+  {
+    "path": "media/fbfc9bf8b69b9904.webp",
+    "bytes": 37388,
+    "sha256": "ca9b614dac4f266db2e0ae2b3021f2927baa368bfb652fbb6e0e2cb9c4f5440c"
+  },
+  {
+    "path": "media/fc67281999885571.avif",
+    "bytes": 22292,
+    "sha256": "7da88944cd37d0937f6e3d23c09c483a31123f80a9e2fd9415e4dd6c127a595c"
+  },
+  {
+    "path": "media/ff53658ae7c2d885.avif",
+    "bytes": 1736,
+    "sha256": "96bc1dfae7534f4f4e3338b67861c81e5b280bab180eb1571797002bb37867e6"
+  },
+  {
+    "path": "media/georgina-background.png",
+    "bytes": 440669,
+    "sha256": "fda5f4e59ff9143d249f81d872a08ba0cee082fbea1e36d1f2ba3f7dd9b97d4e"
+  },
+  {
+    "path": "media/ryan-poster.webp",
+    "bytes": 117292,
+    "sha256": "25e6d9e80c61523df0f05e48c26f289541973dabce78f4b6c82557d38ae11833"
+  },
+  {
+    "path": "media/ryan.mp4",
+    "bytes": 1023901,
+    "sha256": "ddc60d6b1961e17f4c0857d120d56bbd6c92d0fc33499435abf2eea3e59468be"
+  }
+]

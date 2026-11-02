@@ -1,0 +1,76 @@
+{
+  "format": "git-template-customization",
+  "formatVersion": "0.2.0",
+  "entries": [
+    {
+      "id": "brand",
+      "title": "品牌与主题",
+      "description": "集中修改品牌及主题令牌",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/shortify/config/brand.ts",
+          "kind": "file",
+          "purpose": "品牌与版权"
+        },
+        {
+          "path": "src/features/site-templates/catalog/shortify/tokens.css",
+          "kind": "file",
+          "purpose": "颜色、字体和尺寸"
+        }
+      ],
+      "constraints": [
+        "保持双语",
+        "不引入宿主信息"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    },
+    {
+      "id": "content",
+      "title": "页面与双语文案",
+      "description": "修改可编辑业务内容及文章",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/shortify/content",
+          "kind": "directory",
+          "purpose": "双语内容、路由和本地素材映射"
+        }
+      ],
+      "constraints": [
+        "文章 slug 唯一",
+        "素材需同时更新来源摘要"
+      ],
+      "checks": [
+        "typecheck",
+        "test",
+        "build"
+      ]
+    },
+    {
+      "id": "motion",
+      "title": "交互与动效",
+      "description": "公共动效、播放、流程、FAQ 与表单",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/shortify/components",
+          "kind": "directory",
+          "purpose": "复用组件及交互"
+        }
+      ],
+      "constraints": [
+        "尊重减少动态效果",
+        "表单不能假装发送成功"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test",
+        "build"
+      ]
+    }
+  ],
+  "$schema": "./schemas/customization.schema.json"
+}
