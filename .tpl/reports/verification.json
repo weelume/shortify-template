@@ -3,9 +3,9 @@
   "format": "git-template-verification",
   "formatVersion": "0.2.0",
   "status": "passed",
-  "checkedAt": "2026-11-02T17:46:37.004Z",
-  "sourceCommit": "8ab0562db16e19fcb4fc627adfd37afa6898c323",
-  "sourceDigest": "9e7ed1311a418a503d46fabd3d777799e4eed73219220a8290dd1a7b50463ee6",
+  "checkedAt": "2026-11-02T18:02:34.458Z",
+  "sourceCommit": "3b2ecc9641acc79a3622d003b620722fb0cb0ce3",
+  "sourceDigest": "0f90a1a890ae5c69b33affc2b94420c76277c3fae3c34cb29f210821d9337b78",
   "environment": {
     "platform": "本地 WSL Linux",
     "arch": "x64",
@@ -25,9 +25,9 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-02T17:41:09.148Z",
-      "finishedAt": "2026-11-02T17:43:35.709Z",
-      "reason": "冻结锁安装后的干净 Git 克隆执行；时间记录为该轮组合检查区间。"
+      "startedAt": "2026-11-02T18:01:11.659Z",
+      "finishedAt": "2026-11-02T18:01:11.659Z",
+      "reason": "1.0.1增量代码的类型、lint、测试和构建组合检查通过；时间为该轮检查区间。"
     },
     {
       "id": "lint",
@@ -39,9 +39,9 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-02T17:41:09.148Z",
-      "finishedAt": "2026-11-02T17:43:35.709Z",
-      "reason": "冻结锁安装后的干净 Git 克隆执行；时间记录为该轮组合检查区间。"
+      "startedAt": "2026-11-02T18:01:11.659Z",
+      "finishedAt": "2026-11-02T18:01:11.659Z",
+      "reason": "1.0.1增量代码的类型、lint、测试和构建组合检查通过；时间为该轮检查区间。"
     },
     {
       "id": "test",
@@ -53,9 +53,9 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-02T17:41:09.148Z",
-      "finishedAt": "2026-11-02T17:43:35.709Z",
-      "reason": "冻结锁安装后的干净 Git 克隆执行；时间记录为该轮组合检查区间。"
+      "startedAt": "2026-11-02T18:01:11.659Z",
+      "finishedAt": "2026-11-02T18:01:11.659Z",
+      "reason": "1.0.1增量代码的类型、lint、测试和构建组合检查通过；时间为该轮检查区间。"
     },
     {
       "id": "build",
@@ -67,9 +67,9 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-11-02T17:41:09.148Z",
-      "finishedAt": "2026-11-02T17:43:35.709Z",
-      "reason": "冻结锁安装后的干净 Git 克隆执行；时间记录为该轮组合检查区间。"
+      "startedAt": "2026-11-02T18:01:11.659Z",
+      "finishedAt": "2026-11-02T18:01:11.659Z",
+      "reason": "1.0.1增量代码的类型、lint、测试和构建组合检查通过；时间为该轮检查区间。"
     }
   ],
   "services": [
@@ -77,7 +77,7 @@
       "id": "web",
       "status": "passed",
       "stopped": true,
-      "checkedAt": "2026-11-02T17:46:37.004Z",
+      "checkedAt": "2026-11-02T18:02:34.458Z",
       "reason": "生产24条双语路径200、2条未知路径404，309素材HEAD200及MP4 MIME通过；本次服务已停止。"
     }
   ],
