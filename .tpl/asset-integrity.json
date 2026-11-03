@@ -1,8 +1,18 @@
 [
   {
+    "path": "fonts/Bebas-Neue-OFL.txt",
+    "bytes": 4336,
+    "sha256": "1ad713665104ebc1ad80176b6b14f2d7dbc91aeed4180855a9514bb350b52e31"
+  },
+  {
     "path": "fonts/Poppins-OFL.txt",
     "bytes": 4392,
     "sha256": "b1474d1695ec46e4317fd480aa118075bb6e8b7ca9704667b9d22371b94ca531"
+  },
+  {
+    "path": "fonts/bebas-neue-latin-400.woff2",
+    "bytes": 13768,
+    "sha256": "a7c90c89240c134f7fdd33d40c000ec90b79d675ea53e8cc5a6d423c073de412"
   },
   {
     "path": "fonts/misans/LICENSE-SOURCE.md",

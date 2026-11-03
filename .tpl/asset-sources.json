@@ -717,5 +717,12 @@
     "source": "https://framerusercontent.com/images/omHNF9srg8Bo8zJFI4Wp09aA.png?scale-down-to=2048&width=5824&height=3264",
     "mime": "image/png",
     "license": "原参考站素材；商业再分发权未确认"
+  },
+  {
+    "id": "bebas-neue-latin-400",
+    "path": "fonts/bebas-neue-latin-400.woff2",
+    "source": "https://fonts.gstatic.com/s/bebasneue/v16/JTUSjIg69CK48gW7PXoo9Wlhyw.woff2",
+    "mime": "font/woff2",
+    "license": "SIL Open Font License 1.1，见 fonts/Bebas-Neue-OFL.txt"
   }
 ]

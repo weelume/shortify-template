@@ -23,7 +23,7 @@
   --sf-text: #fafafa;
   --sf-muted: #a6a6af;
   --sf-faint: #777780;
-  --sf-border: rgba(255,255,255,.085);
+  --sf-border: rgba(255,255,255,.065);
   --sf-glass: linear-gradient(145deg,rgba(255,255,255,.065),rgba(255,255,255,.018));
   --sf-glass-shadow: inset 0 1px 0 rgba(255,255,255,.04),0 10px 35px rgba(0,0,0,.2);
   --sf-gradient: linear-gradient(115deg,#d565ff -4%,#746bff 24%,#009bff 62%,#b4dcba 102%);

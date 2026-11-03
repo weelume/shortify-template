@@ -23,4 +23,4 @@ export function ScrollWords({value,as='p'}:{value:string;as?:'p'|'h1'}){
  const children=reduced?value:words.map((word,index)=><HighlightWord key={index} word={word} spaced={spaced} progress={scrollYProgress} start={index/words.length} end={(index+1)/words.length}/>)
  return <div ref={ref} className="sf-scroll-words">{as==='h1'?<h1>{children}</h1>:<p>{children}</p>}</div>
 }
-export function ToggleIcon({open}:{open:boolean}){return <span className={`sf-toggle-icon ${open?'is-open':''}`} aria-hidden="true"/>}
+export function ToggleIcon({open}:{open:boolean}){return <span className={`sf-toggle-icon ${open?'is-open':''}`} aria-hidden="true"><svg viewBox="0 0 20 20" fill="none"><path d="m3 7 7 7 7-7" stroke="currentColor" strokeWidth="1.2" strokeLinecap="round" strokeLinejoin="round"/></svg></span>}

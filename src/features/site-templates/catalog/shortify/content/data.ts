@@ -5,31 +5,31 @@ export const text=(locale:Locale,value:Copy)=>value[locale]
 export const copy=(zh:string,en:string):Copy=>({zh,en})
 export const asset=(id:keyof typeof media)=>media[id]
 export const videos = [
- {id:'ava',name:'avacollective',poster:'/templates/shortify/media/ava-poster.webp',caption:copy('那些保持稳定更新的创作者，都做对了这件事','The consistency cheat code no one talks about'),views:'5,948'},
- {id:'ethan',name:'ethaneditz',poster:'/templates/shortify/media/ethan-poster.webp',caption:copy('创作不是好运，而是持续练习','Creators aren’t lucky. They’re trained.'),views:'5,242'},
- {id:'claire',name:'clairecreates',poster:'/templates/shortify/media/claire-poster.webp',caption:copy('自由创作者都在讨论这件事','Freelancers are going crazy about this…'),views:'937K'},
- {id:'emily',name:'emilyonmic',poster:'/templates/shortify/media/emily-poster.webp',caption:copy('每一次发布，都让内容更好','Your content gets better the more you publish.'),views:'105K'},
- {id:'ryan',name:'ryanmercer.studio',poster:'/templates/shortify/media/ryan-poster.webp',caption:copy('这改变了我在线上表达自己的方式','This changed how I show up online.'),views:'5,948'},
+ {id:'ava',name:'avacollective',poster:'/templates/shortify/media/ava-poster.webp',caption:copy('那些保持稳定更新的创作者，都做对了这件事','The consistency cheat code no one talks about'),likes:'5,948',comments:'46',reposts:'35',shares:'10.6K'},
+ {id:'ethan',name:'ethaneditz',poster:'/templates/shortify/media/ethan-poster.webp',caption:copy('创作不是好运，而是持续练习','Creators aren’t lucky. They’re trained.'),likes:'5,242',comments:'102',reposts:'350',shares:'10.6K'},
+ {id:'claire',name:'clairecreates',poster:'/templates/shortify/media/claire-poster.webp',caption:copy('自由创作者都在讨论这件事','Freelancers are going crazy about this…'),likes:'937K',comments:'25K',reposts:'15.5K',shares:'100.5K'},
+ {id:'emily',name:'emilyonmic',poster:'/templates/shortify/media/emily-poster.webp',caption:copy('每一次发布，都让内容更好','Your content gets better the more you publish.'),likes:'105K',comments:'12.5K',reposts:'5.2K',shares:'24K'},
+ {id:'ryan',name:'ryanmercer.studio',poster:'/templates/shortify/media/ryan-poster.webp',caption:copy('这改变了我在线上表达自己的方式','This changed how I show up online.'),likes:'5,948',comments:'46',reposts:'35',shares:'10.6K'},
 ]
 export const nav=[{slug:'',title:copy('首页','Home')},{slug:'portfolio',title:copy('作品','Portfolio')},{slug:'about',title:copy('关于','About')},{slug:'blog',title:copy('博客','Blog')}]
 export const content={
  call:copy('预约聊聊','Book a call'),
  hero:copy('你的短视频创作\n从此轻松运转','YOUR SHORT-FORM,\nON AUTOPILOT'),
  intro:copy('你负责记录，我们负责其余。把原始灵感变成让人停下滑动的短视频，让创作持续发生。','You record. We handle the rest. Turning your raw ideas into scroll-stopping short-form videos, automatically.'),
- problem:copy('是什么让你\n迟迟没有发布新内容','What’s really stopping\nyou from posting more?'),
- problemDesc:copy('剪辑、修改、反复纠结，再从头来过。在镜头和发布按钮之间，创作的热情逐渐消耗。','You’re stuck in a cycle of editing, tweaking, second-guessing, and repeating, where creativity slows down between the camera and the upload button.'),
- features:copy('短视频持续增长\n需要的都在这里','Everything you need\nto scale on short-form'),
+ problem:copy('是什么让你\n迟迟没有发布新内容','What’s really stopping you from posting more?'),
+ problemDesc:copy('剪辑、修改、反复纠结，再从头来过。在镜头和发布按钮之间，创作的热情逐渐消耗。','You’re just stuck in the process of editing, tweaking, second guessing, repeating. Between the camera and the upload button, creativity slows down.'),
+ features:copy('短视频持续增长\n需要的都在这里','Everything you need to\nscale on short-form'),
  featuresDesc:copy('快速交付、紧跟趋势，以表现为导向的短视频内容，帮助好想法被更多人看见。','Fast turnarounds, trend-driven edits, and performance focused short-form content built to grow your reach'),
  services:copy('让创作服务简单一点','OUR SERVICES SIMPLIFIED'),
  servicesDesc:copy('从原始片段，到准备发布的社交媒体内容，我们这样帮助你。','From raw video clips to polished, ready-to-post social media content, here’s how we help:'),
  process:copy('从灵感到发布','HOW IT WORKS'),
  processDesc:copy('从记录你的想法，到发布精心打磨的短片，让内容持续流动。','From recording your thoughts to posting polished clips here’s how Shortify keeps your content flowing.'),
  statement:copy('问题往往不在创意，而在流程。我们用完整的内容协作系统，把原始素材变成精心剪辑的短视频。','The problem isn’t creativity — it’s process. Shortify fixes that with a done-for-you system that turns raw footage into polished short-form content — fast.'),
- pricing:copy('选择你的节奏\n其余交给我们','Pick Your Pace.\nWe’ll handle the rest'),
+ pricing:copy('选择你的节奏\n其余交给我们','Pick Your Pace. We’ll\nhandle the rest'),
  reviews:copy('听听创作者怎么说','What creators say about Shortify'),
- reviewsDesc:copy('更多自由、更好的互动，把精力重新放回最擅长的创作。以下人物、数据和评价仅为模板演示。','More freedom, better engagement, and more time to create. People, metrics and testimonials are template demonstrations.'),
+ reviewsDesc:copy('更多自由、更好的互动，把精力重新放回最擅长的创作。','More freedom, better engagement, and more time to create.'),
  faq:copy('常见问题','Frequently Asked Questions'),
- cta:copy('每个创作者都有好想法\n让你的想法被更多人看见','EVERY CREATOR HAS IDEAS.\nWE MAKE SURE YOURS REACH MILLIONS'),
+ cta:copy('每个创作者都有好想法\n让你的想法被更多人看见','EVERY CREATOR HAS IDEAS. WE\nMAKE SURE YOURS REACH MILLIONS'),
  demo:copy('仅为模板演示，未发送或保存任何信息','Template demo only. Nothing is sent or saved.'),
 }
 export const painPoints=[copy('更新不稳定','Inconsistent Posting'),copy('高质量剪辑','Premium Editing'),copy('剪辑太耗时','Too Much Time Editing'),copy('总在和别人比较','Comparing With Others'),copy('素材难整理','Hard to Stay Organized'),copy('创作疲劳','Creative Fatigue'),copy('流程断层','Broken Workflow'),copy('品牌不统一','No Brand Consistency'),copy('想得多，发得少','Post Less. Think More')]
@@ -73,3 +73,5 @@ export const testimonials=[
  {name:'IShowSlow',quote:copy('稳定的内容协作成为日常运营的一部分，也为品牌成长释放了空间。','Shortify is an essential part of our operations and they have provided huge upside to us and our brand Growth.'),views:'2B+',followers:'10M+',image:asset('7aa91fb2f9f6a566')},
 ]
 export const team=[{name:'Ron Walker',role:copy('创始人兼 CEO','Founder & CEO'),image:asset('03e6bf0c6f08940b')},{name:'Dylan Hughes',role:copy('创意负责人','Creative Lead'),image:asset('46b8507611b20596')},{name:'Chloe Morgan',role:copy('视频编辑','Video Editor'),image:asset('aec5ded1a44f1eab')},{name:'Tyler Adams',role:copy('视频编辑','Video Editor'),image:asset('65496ac77dd7dba6')},{name:'Jake Miller',role:copy('动效设计师','Motion Expert'),image:asset('fbfc9bf8b69b9904')}]
+
+export const ctaClips=["23881a8ccd6f15f0","3ebf3102410e98cf","8d61b0306b972e17","7b678c69d2224748","59032eb63a55fb2b","43e6d4f90d11d151","f20db510b6838267","899b6da2b6263d39","71681da33185b0ff","b5dbddbe346ce6ec","7d85beba5325837a","67974a8c95050695","af8eea37d22ba3ac","3f4a6e4ac9ead8e1"].map(id=>asset(id as keyof typeof media))

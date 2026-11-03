@@ -7,3 +7,5 @@
 Poppins 使用 SIL Open Font License，许可随字体保存在 `public/templates/shortify/fonts/Poppins-OFL.txt`。MiSans 使用小米发布的字体知识产权许可协议，来源与限制见 `fonts/misans/LICENSE-SOURCE.md`，不是 SIL OFL。字体文件不单独出售；遵守各自的分发条件。
 
 Next.js、React、Framer Motion 与开发工具遵守各自的第三方许可。工具许可不能推导为参考素材或整套模板的许可。使用者应在正式分发前审阅源站与素材权利要求。
+
+Bebas Neue：原站已使用的英文展示字体，本地woff2来自Google Fonts，按SIL Open Font License 1.1分发；完整许可位于public/templates/shortify/fonts/Bebas-Neue-OFL.txt。其字体许可不覆盖参考站图片、设计与视频的权利。

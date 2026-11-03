@@ -19,3 +19,5 @@ Node 版本以根 `.nvmrc` 为准，pnpm 版本以 `package.json` 为准。先�
 源码仓库地址以 `template.json.gitUrl` 为准。`.tpl/assets/` 只放真实展示截图；运行素材位于 `public/templates/shortify/`。`asset-sources.json` 与 `asset-integrity.json` 记录素材来源和摘要。不得提交依赖、缓存、真实环境变量、日志或私密数据。
 
 本实现参考 Shortify 原站的布局、内容层次与动效。中文排版和字体按本模板令牌调整；作品视频、演示日历和隐私说明有明确差异。参考素材、人物与品牌的商业再分发权尚未确认，`listed=false`；完整权利说明见 `docs/LICENSE.md`。不得把演示评价、播放量或方案说明当作真实商业背书。尚未完成的验收项目必须如实保留。
+
+英文展示标题使用本地 Bebas Neue 400，首屏桌面100px、章节60px并按设备缩放；英文正文仍用Poppins。中文展示继续使用MiSans及28–44px首屏、24–36px章节的规范。两种语言独立维护标题比例，不能用统一字号覆盖。

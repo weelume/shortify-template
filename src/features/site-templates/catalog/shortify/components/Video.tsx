@@ -1,6 +1,7 @@
 'use client'
 import {useEffect,useRef,useState} from 'react'
 import {motion,useReducedMotion} from 'framer-motion'
+import {MetricIcon} from './Icons'
 import {videos,text,type Locale} from '../content/data'
 
 export function Video({index,locale,auto=true,controls=false,decorative=false}:{index:number;locale:Locale;auto?:boolean;controls?:boolean;decorative?:boolean}){
@@ -16,7 +17,7 @@ export function Video({index,locale,auto=true,controls=false,decorative=false}:{
   })}else video.pause()},{threshold:.08})
   observer.observe(video);return()=>{disposed=true;observer.disconnect();video.pause()}
  },[auto,reduced,item.id])
- return <div className="sf-video-card"><video tabIndex={decorative?-1:undefined} ref={ref} src={`/templates/shortify/media/${item.id}.mp4`} poster={item.poster} muted={auto} loop={auto} autoPlay={auto&&!reduced} playsInline controls={controls||!!reduced} preload="metadata" aria-label={locale==='zh'?`${item.name} 的短视频演示`:`Short-form video demonstration by ${item.name}`} onPlaying={()=>setError(false)} onError={()=>setError(true)}/>{!controls&&<><div className="sf-video-stats" aria-hidden="true"><span>♡<small>{item.views}</small></span><span>♧<small>46</small></span><span>♧<small>35</small></span></div><div className="sf-video-caption"><strong>{item.name}</strong><span className="sf-follow">{locale==='zh'?'关注':'Follow'}</span><p>{text(locale,item.caption)}</p></div></>}{error&&<p className="sf-media-error" role="status">{locale==='zh'?'视频无法自动播放，请使用播放控件。':'Autoplay unavailable. Use the video controls.'}<button tabIndex={decorative?-1:undefined} onClick={()=>{if(ref.current){ref.current.controls=true;ref.current.play().then(()=>setError(false)).catch(()=>setError(true))}}}>{locale==='zh'?'播放':'Play'}</button></p>}</div>
+ return <div className="sf-video-card"><video tabIndex={decorative?-1:undefined} ref={ref} src={`/templates/shortify/media/${item.id}.mp4`} poster={item.poster} muted={auto} loop={auto} autoPlay={auto&&!reduced} playsInline controls={controls||!!reduced} preload="metadata" aria-label={locale==='zh'?`${item.name} 的短视频演示`:`Short-form video demonstration by ${item.name}`} onPlaying={()=>setError(false)} onError={()=>setError(true)}/>{!controls&&<><div className="sf-video-stats" aria-hidden="true"><span><MetricIcon kind="heart"/><small>{item.likes}</small></span><span><MetricIcon kind="comment"/><small>{item.comments}</small></span><span><MetricIcon kind="repeat"/><small>{item.reposts}</small></span><span><MetricIcon kind="send"/><small>{item.shares}</small></span></div><div className="sf-video-caption"><strong>{item.name}</strong><span className="sf-follow">{locale==='zh'?'关注':'Follow'}</span><p>{text(locale,item.caption)}</p></div></>}{error&&<p className="sf-media-error" role="status">{locale==='zh'?'视频无法自动播放，请使用播放控件。':'Autoplay unavailable. Use the video controls.'}<button tabIndex={decorative?-1:undefined} onClick={()=>{if(ref.current){ref.current.controls=true;ref.current.play().then(()=>setError(false)).catch(()=>setError(true))}}}>{locale==='zh'?'播放':'Play'}</button></p>}</div>
 }
 export function VideoMarquee({locale}:{locale:Locale}){
  const [paused,setPaused]=useState(false)
